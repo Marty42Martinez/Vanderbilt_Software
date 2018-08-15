@@ -1,0 +1,773 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/bennartz_group/!svn/ver/643/LIBRARY/idl/std_libs/mathlib
+END
+gsmooth.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/gsmooth.pro
+END
+higherthan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/higherthan.pro
+END
+meanarr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/meanarr.pro
+END
+simplel_co.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/simplel_co.pro
+END
+slow_congrid.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/slow_congrid.pro
+END
+cor_variance.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/cor_variance.pro
+END
+running_corvariance.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/running_corvariance.pro
+END
+richards.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/richards.pro
+END
+cute.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/cute.pro
+END
+noises.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/noises.pro
+END
+runningav.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/runningav.pro
+END
+randomn_cut.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/randomn_cut.pro
+END
+amp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/amp.pro
+END
+co_convol.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/co_convol.pro
+END
+gauss.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/gauss.pro
+END
+two_series.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/two_series.pro
+END
+WS_FTP.LOG
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/WS_FTP.LOG
+END
+hann.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/hann.pro
+END
+rcs.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/rcs.pro
+END
+meanvar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/meanvar.pro
+END
+ci.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/ci.pro
+END
+get_bits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/get_bits.pro
+END
+bits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/bits.pro
+END
+co_int2D.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/co_int2D.pro
+END
+co_moments.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/co_moments.pro
+END
+roundigit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/roundigit.pro
+END
+basis_harmonics.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/basis_harmonics.pro
+END
+e1.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/e1.pro
+END
+chisq.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/chisq.pro
+END
+i2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/i2.pro
+END
+si.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/si.pro
+END
+smoothgauss.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/smoothgauss.pro
+END
+richards2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/richards2.pro
+END
+f2k.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/f2k.pro
+END
+test_co_moments2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/test_co_moments2.pro
+END
+flatlike.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/flatlike.pro
+END
+upper.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/upper.pro
+END
+sinc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/sinc.pro
+END
+eblike_e.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/eblike_e.pro
+END
+quadratic_formula.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/quadratic_formula.pro
+END
+welch.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/welch.pro
+END
+zero_pad.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/zero_pad.pro
+END
+multdiag.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/multdiag.pro
+END
+covar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/covar.pro
+END
+imag.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/imag.pro
+END
+trig_exp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/trig_exp.pro
+END
+bartlett.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/bartlett.pro
+END
+correlation_significance.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/correlation_significance.pro
+END
+aliasing test.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/aliasing%20test.pro
+END
+cosd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/cosd.pro
+END
+ei.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/ei.pro
+END
+stats.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/stats.pro
+END
+matrix_extract.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrix_extract.pro
+END
+area_overlap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/area_overlap.pro
+END
+rms.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/rms.pro
+END
+gaussmoment.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/gaussmoment.pro
+END
+linear_overlap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/linear_overlap.pro
+END
+unique.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/unique.pro
+END
+interp1D_2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/interp1D_2.pro
+END
+invertspd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/invertspd.pro
+END
+k2f.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/k2f.pro
+END
+sdm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/sdm.pro
+END
+elt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/elt.pro
+END
+dedrift_filter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/dedrift_filter.pro
+END
+butterworth.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/butterworth.pro
+END
+maxmin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/maxmin.pro
+END
+idland.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/idland.pro
+END
+stddev_with_err.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/stddev_with_err.pro
+END
+Uinvert.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/Uinvert.pro
+END
+newtons_method.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/newtons_method.pro
+END
+cor0.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/cor0.pro
+END
+different.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/different.pro
+END
+feb 21 montecarlos.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/feb%2021%20montecarlos.pro
+END
+psin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/psin.pro
+END
+simpson2d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/simpson2d.pro
+END
+quanal.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/quanal.pro
+END
+square_wave.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/square_wave.pro
+END
+polysinintegral.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/polysinintegral.pro
+END
+shotgun.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/shotgun.pro
+END
+lower.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/lower.pro
+END
+chisq_pd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/chisq_pd.pro
+END
+nonzero.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/nonzero.pro
+END
+eblike.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/eblike.pro
+END
+confidencelimit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/confidencelimit.pro
+END
+even.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/even.pro
+END
+int_midpoint.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/int_midpoint.pro
+END
+logrange.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/logrange.pro
+END
+test_co_moments.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/test_co_moments.pro
+END
+powerlawfit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/powerlawfit.pro
+END
+Msqrt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/Msqrt.pro
+END
+mult2d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/mult2d.pro
+END
+acors.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/acors.pro
+END
+CBESELJ01.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/CBESELJ01.pro
+END
+aliasing test 2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/aliasing%20test%202.pro
+END
+rcsprob.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/rcsprob.pro
+END
+idlcor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/idlcor.pro
+END
+remove_shape.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/remove_shape.pro
+END
+real.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/real.pro
+END
+interp1D.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/interp1D.pro
+END
+acosd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/400/LIBRARY/idl/std_libs/mathlib/acosd.pro
+END
+odds.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/odds.pro
+END
+sind.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/sind.pro
+END
+differ.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/differ.pro
+END
+filterfunc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/filterfunc.pro
+END
+flatl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/flatl.pro
+END
+pcos.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/pcos.pro
+END
+diagmult.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/diagmult.pro
+END
+lin2dB.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/lin2dB.pro
+END
+conf1D.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/conf1D.pro
+END
+polycosintegral.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/polycosintegral.pro
+END
+sigmas.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/sigmas.pro
+END
+cor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/cor.pro
+END
+randome.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/randome.pro
+END
+co_moments2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/co_moments2.pro
+END
+correlation_error.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/correlation_error.pro
+END
+dstddev.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/dstddev.pro
+END
+get_diag.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/get_diag.pro
+END
+lowerthan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/lowerthan.pro
+END
+diag.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/diag.pro
+END
+triangle.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/triangle.pro
+END
+simplel.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/simplel.pro
+END
+odd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/odd.pro
+END
+eblike_dec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/eblike_dec.pro
+END
+corr_sig.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/corr_sig.pro
+END
+mapsmooth.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/mapsmooth.pro
+END
+dB2lin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/dB2lin.pro
+END
+gausswindow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/gausswindow.pro
+END
+eblike_co.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/eblike_co.pro
+END

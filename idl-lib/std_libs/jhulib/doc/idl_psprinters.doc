@@ -1,0 +1,73 @@
+
+	The PostScript printers on the system are known to the IDL routine
+	psinit through the environmental variable IDL_PSPRINTERS.
+
+	IDL_PSPRINTERS names a file describing the Postscript
+	printers available on the system.  The format of that file is:
+
+	*  Any comments start with * as first char.
+	*  Comment lines are ignored.
+	print/queue=cps_ps			<-- print command.
+	Postscript printer in terminal room.	<-- printer description.
+	print/queue=cps_ps2			<-- next printer comand.
+	Next postscript printer.		<-- its description.
+	. . .					<-- as many pairs as needed.
+
+
+	An example file for 3 printers is:
+
+	*--- IDL Postscript printers description file  --------
+	*--- R. Sterner, 22 May, 1990
+	*--- STR VAX cluster   --------
+	print/queue=cps_ps
+	DEC Postscript printer in room 54 (Terminal room)
+	print/queue=hp/form=post
+	HP Postscript printer in room 119 (John's office)
+	print/queue=alw/form=post
+	Apple Laser Writer printer in room 304 (Ron & George's office)
+
+	-=-=-=-=-  Some notes on the May 1995 upgrade to psinit  -=-=-=-=-
+
+	Two major changes were made to psinit:
+
+	* An additional method of selected a printer is available.
+
+	* Color PostScript is now supported.
+
+	In the past a PS printer was specified by its number as shown
+	in the list given by psinit,/list.  This still works.  In addition
+	a PS printer may now be specified by a tag name.  This can
+	be any string in the printer description.  Printer descriptions are
+	displayed by the command psinit,/list.  These are from the text file
+	pointed to by the environmental variable IDL_PSPRINTERS.  It may be
+	useful to edit these descriptions to add unique printer tags.
+	If the given tag name does not occur in any of the printer descripton
+	lines the psinit command is ignored.  If it occurs in more than
+	one printer descripton line the first match is used but a warning
+	message is given.
+
+	Color PostScript is now supported by the addition of three new
+	keywords:
+	     /COLOR means do color PostScript (def is B&W).
+	     /AUTOCOLOR means automatically set color mode for a
+	       color PS printer.  Must have the word color in the
+	       printer description line.
+	     CFLAG=flag  Returned color flag: 0=B&W, 1=Color mode.
+	/COLOR just attempts to place the printer in color mode.
+	/AUTOCOLOR is more interesting.  It only sets color mode if
+	the printer is actually a color printer.  This is determined
+	by looking for the word color somewhere in the printer description
+	line.  So this word must appear in the description for this
+	keyword to work.  This keyword may be given to any printer,
+	even if it's black and white.  The returned flag value, CFLAG,
+	will be 0 for B&W and 1 for a color printer.  This is useful
+	if the images must be treated differently for the two cases.
+	For example, if the color image currently displayed in a graphics
+	window is to be sent to a B&W printer it should first be converted
+	to luminosity as follows:
+	  a = tvrd()		; Read the current image.
+	  tvlct,r,g,b,/get	; Read its color table.
+	  lum = ROUND(.3*r + .59*g + .11*b)<255   ; Find image brightness.
+	  a = lum(a)		; Convert color image to B&W.
+	The converted image, a, should print ok on a B&W printer.
+

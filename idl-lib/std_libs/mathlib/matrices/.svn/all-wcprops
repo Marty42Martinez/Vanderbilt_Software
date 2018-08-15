@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/643/LIBRARY/idl/std_libs/mathlib/matrices
+END
+circ.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/circ.pro
+END
+dedrift_filter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/dedrift_filter.pro
+END
+compress_symmetric.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/compress_symmetric.pro
+END
+eigen.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/eigen.pro
+END
+upper.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/upper.pro
+END
+Uinvert.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/Uinvert.pro
+END
+meanremove.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/meanremove.pro
+END
+chisqdiff.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/chisqdiff.pro
+END
+pca.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/pca.pro
+END
+form_circ.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/form_circ.pro
+END
+CPmult.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/CPmult.pro
+END
+eigeninv.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/eigeninv.pro
+END
+correlation_matrix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/correlation_matrix.pro
+END
+diagmult.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/diagmult.pro
+END
+multdiag.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/multdiag.pro
+END
+comparemaps.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/comparemaps.pro
+END
+constraint_matrix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/constraint_matrix.pro
+END
+simple CC mapaddition test.pro
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/simple%20CC%20mapaddition%20test.pro
+END
+expand_symmetric.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/expand_symmetric.pro
+END
+circregmult.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/circregmult.pro
+END
+circmult.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/circmult.pro
+END
+lower.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/lower.pro
+END
+matrix_insert.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/matrix_insert.pro
+END
+matrix_extract.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/matrix_extract.pro
+END
+inverse3.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/inverse3.pro
+END
+reindex.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/reindex.pro
+END
+Pmult.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/Pmult.pro
+END
+blockadd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/blockadd.pro
+END
+get_diag.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/get_diag.pro
+END
+invert_symmetric.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/643/LIBRARY/idl/std_libs/mathlib/matrices/invert_symmetric.pro
+END
+vectormult.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/vectormult.pro
+END
+diag.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/diag.pro
+END
+Msqrt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/Msqrt.pro
+END
+invertcirc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/invertcirc.pro
+END
+symmetrize.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/symmetrize.pro
+END
+convert_covar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/convert_covar.pro
+END
+meanoff.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/meanoff.pro
+END
+symmetric.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/symmetric.pro
+END
+invertspd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/invertspd.pro
+END
+pos_def.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/pos_def.pro
+END
+simple CC map_full destripe.pro
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/simple%20CC%20map_full%20destripe.pro
+END
+test new qe.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/matrices/test%20new%20qe.pro
+END

@@ -1,0 +1,49 @@
+FUNCTION mascobs_container::PrecipHist, titlename=titlename
+;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%;
+;%%%%%Created by:Marty: August 24, 2015%%%%%;
+;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%;
+;%%%%%%%%%%%%%%%%Description%%%%%%%%%%%%%%%%;
+;returns grapic with histogram of # captured
+;particles vs Julian Day
+;still in progress
+;plan to make the axis labels look better
+  KEYWORD_DEFAULT,titlename,'Frequency of snowflake capture over time'
+  
+  jul = self -> Julday()
+  n   = self.count()
+;%%%%Needs to be changed!
+;TAKE AWAY THE FIX!!
+  j0  = jul[0] -1
+  ;CURRENT IDEA!;
+  ;use the caldat procedure to get the month day and year of j0
+  ;then use these variables to fill in XTICKVALUES like ralf did
+  ;DIFFERENCE: include findgen in the days section 
+  ;number of days = n_days
+  n_weeks = 1+round(jul[-1]-j0)/7
+  caldat, j0, m,d,y
+  
+  Jul_hist = histogram(jul, binsize=1./48, min=j0)
+  xpl = double(findgen(n)*(1./48)) + j0
+  
+  ;Can make this plot prettier, but it works for now;
+  dummy = LABEL_DATE(DATE_FORMAT='%Y.%N.%D')
+  h = plot(xpl,jul_hist,XTICKFORMAT='LABEL_DATE', color='red',$
+          title=titlename,xtitle = 'Calendar day (Y.M.D)',ytitle='Particle Count',$
+          XRANGE=[j0,jul[-1]],/XSTYLE, $
+          XTICKVALUES=[JULDAY(m,d+findgen(n_weeks)*7,y)] $
+          ) 
+
+;j=JULDAY(1.,15.,FINDGEN(50)+1950)
+; y=FINDGEN(50)
+;
+; dummy = LABEL_DATE(DATE_FORMAT='%Y') 
+;
+; img=PLOT(j,y,XTICKFORMAT='LABEL_DATE', $
+;          XRANGE=[JULDAY(1,1,1950),JULDAY(12,1,2000)],/XSTYLE, $
+;          XTICKVALUES=[JULDAY(1,1,1950+FINDGEN(6)*10)]  $
+;          ) 
+;
+;END
+
+
+end

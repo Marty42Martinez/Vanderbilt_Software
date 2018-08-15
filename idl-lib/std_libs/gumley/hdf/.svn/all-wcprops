@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/gumley/hdf
+END
+hdf_vd_vdatainfo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/gumley/hdf/hdf_vd_vdatainfo.pro
+END
+hdf_vd_vdatalist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/gumley/hdf/hdf_vd_vdatalist.pro
+END
+hdf_vd_vdataread.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/gumley/hdf/hdf_vd_vdataread.pro
+END
+hdf_sd_attinfo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/gumley/hdf/hdf_sd_attinfo.pro
+END
+hdf_sd_attlist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/gumley/hdf/hdf_sd_attlist.pro
+END
+hdf_sd_varinfo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/gumley/hdf/hdf_sd_varinfo.pro
+END
+hdf_sd_varlist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/gumley/hdf/hdf_sd_varlist.pro
+END
+hdf_sd_varread.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/gumley/hdf/hdf_sd_varread.pro
+END

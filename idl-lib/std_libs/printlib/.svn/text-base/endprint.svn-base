@@ -1,0 +1,4 @@
+;endprint
+
+device, /close_doc
+set_plot, 'win'

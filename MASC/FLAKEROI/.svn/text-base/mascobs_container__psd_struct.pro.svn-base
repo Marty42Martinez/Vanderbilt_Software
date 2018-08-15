@@ -1,0 +1,30 @@
+FUNCTION mascobs_container::PSD_struct, binsize=binsize,dmax=dmax
+;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%;
+;%%%%%Created by:Marty: August 24, 2015%%%%%;
+;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%;
+;%%%%%%%%%%%%%%%%Description%%%%%%%%%%%%%%%%;
+;returns structure that contains tools to
+;plot a PSD
+  KEYWORD_DEFAULT, binsize, 0.005 ;centimeters
+
+  n      =  self.count()
+  IF KEYWORD_SET(dmax) THEN BEGIN
+     e = self->evaluate('ellipse')
+     s = self->evaluate('scale')
+     dle = e.major*s   ; comes out in cm....
+  ENDIF ELSE BEGIN
+      DLE    =  self -> evaluate('D_LE')
+  ENDELSE
+  dle = MAX(dle,dim=1)
+  
+  nbins = MAX(dle)/binsize+1
+  
+  PSD = {$
+    xpl     : (binsize/2.)+findgen(nbins)*binsize               , $
+	hist    : histogram(DLE, binsize=binsize, min=0,nbins=nbins), $
+	binsize : binsize       $
+  }
+    
+  return, PSD
+
+end

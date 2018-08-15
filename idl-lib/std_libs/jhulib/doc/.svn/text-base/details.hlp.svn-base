@@ -1,0 +1,40 @@
+
+  details.txt = more details on the operation of LIBR
+
+  LIBR handles a rather large number of files, for some operations nearly 40.
+  The most obvious file is the routine to be added, moved, or deleted.  Other
+  files are used to document the contents and history of each library.
+  Modified files are first backed up.  The files are described below.
+
+  xxx.pro     The routine in question, where xxx is the routine name.
+  backup.bak  A copy of xxx.pro before it is moved.  Deleted routines
+              are actually just moved to the trash directory.
+  alph.one    A alphabetical list of one line descriptions of all routines
+              currently in the library.  Used by the LINER utility to
+              locate routines by keywords in their one line descriptions.
+  alph.bak    The last version of alph.one.
+  cat.one     Same as alph.one except it is meant to be organized into
+              categories.  If a one line description is already in cat.one
+              it is overwritten.  Otherwise it is placed at the front of
+              cat.one so you can move it to the correct category (or
+              categories) with a text editor.  Do this occasionally.
+  cat.bak     The last version of cat.one.
+  newlist.txt A list of all routines added since newlist.txt was created.
+              This may be useful if you want to back up new routines or
+              something similar.  After such a back up just delete this
+              file, it will be created again with new routines since that time.
+  newlist.bak The last version of newlist.txt.
+  release_notes.txt  This file is manually edited any time a routine is
+              added, moved, or deleted.  It is a history of the library
+	      and can be very useful.
+  release_notes.bak  The last version of release_notes.txt.
+
+  That is 10 files.  The same files occur in both the main and mirror
+  directories for a total of 20 files.  The most complex operation is
+  a move (a delete is just a move to the trash directory) and involves
+  38 files (since backup.bak files are not needed in the target directories).
+
+  LIBR will do most of the work transparently to the user, except for
+  added comments to the release_notes.txt files (in both the source and
+  destination directories for a move).
+

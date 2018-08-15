@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/635/LIBRARY/idl/std_libs/mathlib/fitting
+END
+fit_cosine.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/fit_cosine.pro
+END
+sineslope_basis.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/sineslope_basis.pro
+END
+gamma_fit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/gamma_fit.pro
+END
+fit_poly.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/fit_poly.pro
+END
+fit_nonlinear.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/635/LIBRARY/idl/std_libs/mathlib/fitting/fit_nonlinear.pro
+END
+test_offset_equivalency.pro
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/test_offset_equivalency.pro
+END
+dum_function.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/dum_function.pro
+END
+lognormal_fit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/lognormal_fit.pro
+END
+fit_diurnal_nomean.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/fit_diurnal_nomean.pro
+END
+exp_fit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/exp_fit.pro
+END
+fit_linear2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/fit_linear2.pro
+END
+cos_func.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/cos_func.pro
+END
+cosine_basis.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/cosine_basis.pro
+END
+cyclefit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/cyclefit.pro
+END
+fit_sineslope.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/fit_sineslope.pro
+END
+poly_basis.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/poly_basis.pro
+END
+fit_cosine2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/fit_cosine2.pro
+END
+oe_moments.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/oe_moments.pro
+END
+linfit_xy.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/linfit_xy.pro
+END
+co_linfit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/co_linfit.pro
+END
+fit_forward.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/fit_forward.pro
+END
+sinefunc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/sinefunc.pro
+END
+planck_fit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/planck_fit.pro
+END
+fit_linear.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/fit_linear.pro
+END
+test_simple_cosine_fit_optim_est.pro
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/test_simple_cosine_fit_optim_est.pro
+END
+sinepro.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/mathlib/fitting/sinepro.pro
+END

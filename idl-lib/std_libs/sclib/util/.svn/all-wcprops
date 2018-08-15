@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/sclib/util
+END
+rectout.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/sclib/util/rectout.pro
+END
+get_psd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/sclib/util/get_psd.pro
+END
+decay.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/sclib/util/decay.pro
+END
+arrtovec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/sclib/util/arrtovec.pro
+END
+numstr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/sclib/util/numstr.pro
+END
+xterm_keys.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/sclib/util/xterm_keys.pro
+END
+blackbody.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/sclib/util/blackbody.pro
+END
+nexttok.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/sclib/util/nexttok.pro
+END
+nozav.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/sclib/util/nozav.pro
+END
+lpr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/sclib/util/lpr.pro
+END
+dec2sexa.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/sclib/util/dec2sexa.pro
+END
+get_rms.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/sclib/util/get_rms.pro
+END
+matchdelim.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/sclib/util/matchdelim.pro
+END
+getdata~.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/sclib/util/getdata~.pro
+END
+getdata.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/sclib/util/getdata.pro
+END
+differentiate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/sclib/util/differentiate.pro
+END

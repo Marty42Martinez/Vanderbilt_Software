@@ -1,0 +1,3 @@
+FUNCTION acosd,x
+ RETURN,ACOS(x)/!DTOR
+END

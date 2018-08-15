@@ -1,0 +1,81 @@
+<<<<<<< .mine
+FUNCTION mascobs_container::psd_struct, binsize=binsize
+=======
+FUNCTION mascobs_container::PSD_struct, binsize=binsize,dmax=dmax
+>>>>>>> .r142
+;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%;
+;%%%%%Created by:Marty: August 24, 2015%%%%%;
+;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%;
+;%%%%%%%%%%%%%%%%Description%%%%%%%%%%%%%%%%;
+;returns structure that contains tools to
+;plot a PSD
+  KEYWORD_DEFAULT, binsize, 0.005 ;centimeters
+<<<<<<< .mine
+  ;stop
+  DLE    =  self -> evaluate('d_le')
+  ell    =  self -> evaluate('ellipse')
+  s      =  self -> evaluate('scale')
+=======
+
+>>>>>>> .r142
+  n      =  self.count()
+  IF KEYWORD_SET(dmax) THEN BEGIN
+     e = self->evaluate('ellipse')
+     s = self->evaluate('scale')
+     dle = e.major*s   ; comes out in cm....
+  ENDIF ELSE BEGIN
+      DLE    =  self -> evaluate('D_LE')
+  ENDELSE
+  dle = MAX(dle,dim=1)
+  
+<<<<<<< .mine
+  ;stop
+  ind = fltarr(n)
+  for i = 0,n-1 do ind[i] = max(where(ell[*,i].major eq max(ell[*,i].major)))
+=======
+  nbins = MAX(dle)/binsize+1
+>>>>>>> .r142
+  
+<<<<<<< .mine
+  iso_dle =    fltarr(n)
+  major   =    fltarr(n)
+  ;ss      =    fltarr(n)
+  
+=======
+>>>>>>> .r142
+  for i = 0,n-1 do begin
+    iso_dle[i]   = dle[ind[i],i]
+    major[i]     = ell[ind[i],i].major*s[ind[i],i]
+  endfor
+  
+  h     = histogram(major, binsize=binsize,min=0)
+  n_el  = n_elements(h)
+  ;12/08/2015;
+  ;changed number from 100 - 560;
+  ;done because want to include major axis measurements;
+  PSD = {$
+<<<<<<< .mine
+    meashist:    fltarr(n_el),$
+	DLEhist:     fltarr(n_el),$
+	xpl:      fltarr(n_el),$
+	;measxpl:     fltarr(560),$
+	binsize:  0.0$
+=======
+    xpl     : (binsize/2.)+findgen(nbins)*binsize               , $
+	hist    : histogram(DLE, binsize=binsize, min=0,nbins=nbins), $
+	binsize : binsize       $
+>>>>>>> .r142
+  }
+<<<<<<< .mine
+
+  PSD.xpl         = (binsize/2.)+findgen(n_el)*binsize
+  PSD.binsize     = binsize
+  PSD.DLEhist     = histogram(iso_dle, binsize=binsize, min=0,max=max(psd.xpl))
+  PSD.meashist    = histogram(major,binsize=binsize,min=0)
+  
+=======
+    
+>>>>>>> .r142
+  return, PSD
+
+end

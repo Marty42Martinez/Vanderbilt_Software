@@ -1,0 +1,25 @@
+
+ Contents of */idldoc:
+
+ Purpose: maintain IDL library documention files.
+
+ Routines:
+
+   libr.pro  ---  IDL librarian (big).
+
+   add_template.pro --- Adds a standard front end template from built-in help.
+     extracthlp.pro --- Extracts built-in help.
+     brk_help.pro --- Returns subsets of extracted built-in help.
+     getcommon.pro --- Finds names of any commons in a routine.
+     getmodhist.pro --- Returns modification history from a routine.
+
+   check_temp.pro --- Checks if a routine has a front-end template.
+
+ Other utilities:
+
+   setidl  ---  Sets all environmental variables needed by IDL.
+     These files must be customized for your local site.  Instructions
+     are included inside these files.
+
+   liner  ---  Search local alph.one files to locate library routines
+     by keyword.  Must be customized for your local site.

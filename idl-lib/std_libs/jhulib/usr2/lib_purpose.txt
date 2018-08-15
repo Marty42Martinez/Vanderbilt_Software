@@ -1,0 +1,5 @@
+
+  The purpose of the IDL library IDLUSR2 is to hold routines
+  thought to be helpful in some way to other IDL usres.  The
+  routines included here are not generally useful as building blocks
+  for other routines but more as stand-alone programs.

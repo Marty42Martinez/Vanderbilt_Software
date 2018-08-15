@@ -1,0 +1,27 @@
+*****************************************************************************
+IDL library routines classified by category
+Library name: IDLDOC
+Purpose:      Routines related to maintaining and documenting libraries.
+From:         Johns Hopkins Applied Physics Laboratory
+Contact:      sterner@tesla.jhuapl.edu
+ 
+Main categories
+---------------
+Main library maintenance program
+Template generation
+ 
+-----------------------------------------------------------------------------
+ 
+Main library maintenance program
+================================
+libr:P Maintains multiple IDL libraries.
+ 
+Template generation
+===================
+add_template:P Add a near standard IDL template to a given IDL routine file.
+brk_help = Return requested data from a help text array.
+extracthlp = Extract help text from an IDL routine, full text or one liner.
+getmodhist:P Get list of modification history from an IDL routine.
+getcommon = Get list of commons from an IDL routine.
+check_temp = Determine if given file has an IDL template.
+ 

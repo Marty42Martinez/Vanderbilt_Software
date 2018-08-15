@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit
+END
+nside2npix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/nside2npix.pro
+END
+npix2nside.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/npix2nside.pro
+END
+pix_ang.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/pix_ang.pro
+END
+ang_pix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/ang_pix.pro
+END
+ang2vec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/ang2vec.pro
+END
+vec2ang.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/vec2ang.pro
+END
+init_xy2pix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/init_xy2pix.pro
+END
+init_pix2xy.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/init_pix2xy.pro
+END
+pix2ang_ring.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/pix2ang_ring.pro
+END
+ang2pix_ring.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/ang2pix_ring.pro
+END
+pix2vec_ring.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/pix2vec_ring.pro
+END
+vec2pix_ring.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/vec2pix_ring.pro
+END
+pix2ang_nest.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/pix2ang_nest.pro
+END
+getdisc_ring.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/getdisc_ring.pro
+END
+ang2pix_nest.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/ang2pix_nest.pro
+END
+reorder.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/reorder.pro
+END
+pix2vec_nest.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/pix2vec_nest.pro
+END
+vec2pix_nest.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/vec2pix_nest.pro
+END
+ud_grade.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/ud_grade.pro
+END
+nest2ring.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/nest2ring.pro
+END
+ring2nest.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/ring2nest.pro
+END
+ang_pix_nest.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/toolkit/ang_pix_nest.pro
+END

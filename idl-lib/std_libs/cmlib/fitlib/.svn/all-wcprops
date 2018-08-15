@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmlib/fitlib
+END
+mpfitpeak.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmlib/fitlib/mpfitpeak.pro
+END
+gauss1.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmlib/fitlib/gauss1.pro
+END
+gauss1p.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmlib/fitlib/gauss1p.pro
+END
+gauss2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmlib/fitlib/gauss2.pro
+END
+mpcurvefit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmlib/fitlib/mpcurvefit.pro
+END
+tnmin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmlib/fitlib/tnmin.pro
+END
+mpfit2dpeak.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmlib/fitlib/mpfit2dpeak.pro
+END
+mpfitfun.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmlib/fitlib/mpfitfun.pro
+END
+MPREADME.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmlib/fitlib/MPREADME.txt
+END
+mpfit2dfun.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmlib/fitlib/mpfit2dfun.pro
+END
+mpfitexpr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmlib/fitlib/mpfitexpr.pro
+END
+poly_func.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmlib/fitlib/poly_func.pro
+END
+setfitparm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmlib/fitlib/setfitparm.pro
+END
+mpfit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmlib/fitlib/mpfit.pro
+END

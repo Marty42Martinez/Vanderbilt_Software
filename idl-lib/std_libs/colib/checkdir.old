@@ -1,0 +1,23 @@
+pro checkdir, fullpath
+
+; check if a file's directory exists.
+; if it doesn't exist, create that directory
+; must work recursively?
+
+file = fullpath
+gr_split_dir,file,dir
+separator = '\'
+if strmid(dir,strlen(dir)-1,1) eq separator $
+	then dir = strmid(dir,0,strlen(dir)-1)
+
+; assumes you specified the drive (like c:)
+
+ss = str_sep(dir,separator)
+N = n_elements(ss)
+current = ss[0]
+for i=1,N-1 do begin
+	current = current + separator + ss[i]
+	mkdir, current
+endfor
+
+end

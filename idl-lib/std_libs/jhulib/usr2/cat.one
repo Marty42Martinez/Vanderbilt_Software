@@ -1,0 +1,71 @@
+***************************************************************************
+IDL library routines classified by category
+Library name: IDLUSR2
+Purpose:      Routines of somewhat more limited interest than IDLUSR.
+From:         Johns Hopkins Applied Physics Laboratory
+Contact:      sterner@tesla.jhuapl.edu
+ 
+Main categories
+---------------
+Directory housekeeping
+Programming
+Astronomy
+Financial
+Graphics
+Image related
+Photography
+Miscellaneous
+ 
+---------------------------------------------------------------------------
+ 
+Directory housekeeping
+======================
+dir_view = Directory viewing utility.
+get_ext = Return a list of unique file extensions (and count).
+subtree = Display size sorted directory subtree. Good for cleaning.
+ 
+Programming
+===========
+idl_clean:P Cleans up IDL source code.  Puts in IDL standard format.
+pick_dir = Interactively pick a directory.
+ 
+Astronomy
+=========
+redshift = Converts between redshift, Recession velocity, and Distance
+ 
+Financial
+=========
+mort = Mortgage or loan computation.
+refinance = Explore the costs and benifits of refinancing a loan.
+ 
+Graphics
+========
+cplot = Do a character plots on screen or into an array.
+pdef:P Set some custom plot defaults.
+ 
+Image related
+=============
+autoscale = Autoscale given image as previously specified.
+gif = GIF image viewer.
+gif2bw = Convert a GIF image to a BW image.
+gif2color = Convert a GIF image to a standard color image.
+gif2tif = Convert a GIF file to a TIFF file.
+gif_del = Delete specified GIF file.  For use by gif.pro.
+img_scale:P Set scaling from currently displayed image.
+put_scale:P Embed in current image values needed to restore scaling.
+set_scale:P Set scaling from currently displayed image.
+tif = TIFF image viewer.
+tif2bw = Convert a TIFF image to a BW image.
+tif2color = Convert a TIFF image to a standard color image.
+tif2gif = Convert a TIFF file to a GIF file.
+tif_del = Delete specified TIFF file.  For use by tif.pro.
+xdc:P Display Xdefault colors or generate a color.
+ 
+Photography
+===========
+footprint = Interactively give info on a camera footprint.
+ 
+Miscellaneous
+=============
+furn:P Plot a set of furniture and a room floor plan.
+lincal:P Plot a multimonth linear calendar on one page.

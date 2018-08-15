@@ -1,0 +1,40 @@
+#!/bin/sh
+#-----------------------------------------
+# UNIX liner sh script.  Original unix LINER by Phil Wiborg at Sacramento Peak
+# Solar Observatory, Sunspot, New Mexico in late 1989.
+# Modified by R. Sterner, Johns Hopkins Applied Physics Lab, 26 Jan, 1993
+#-----------------------------------------
+if [ $# -eq 0 ]
+then
+  echo "liner keyword1 keyword2 ..."; exit 1
+fi
+pat='/'$1'/'
+shift
+for i in $*
+  do
+  pat=$pat'&&/'$i'/'
+  done
+
+echo " "
+echo "    ----=======<  Search for IDL routines  >=======----"
+echo "        _________________"
+echo "_______/  IDL Built-in.  \_______________________________________________"
+tr "[A-Z]" "[a-z]" < $IDL_IDLDOC/routines.one | awk $pat
+echo "        ______________________________________________"
+echo "_______/  Local library: $IDL_IDLUSR  \__________________"
+tr "[A-Z]" "[a-z]" < $IDL_IDLUSR/alph.one | awk $pat
+echo "        ________________________________________________________"
+echo "_______/  Local less general lib: $IDL_IDLUSR2  \________"
+tr "[A-Z]" "[a-z]" < $IDL_IDLUSR2/alph.one | awk $pat
+echo "        ________________________________________________________"
+echo "_______/  Group specific library: $IDL_IDLSPEC  \________"
+tr "[A-Z]" "[a-z]" < $IDL_IDLSPEC/alph.one | awk $pat
+echo "        __________________________________________________"
+echo "_______/  ERS image library: $IDL_IDLERS  \______________"
+tr "[A-Z]" "[a-z]" < $IDL_IDLERS/alph.one | awk $pat
+echo "        __________________________________________________"
+echo "_______/  Mag tape library: $IDL_IDLTAPE  \______________"
+tr "[A-Z]" "[a-z]" < $IDL_IDLTAPE/alph.one | awk $pat
+echo "        ___________________________________________________"
+echo "_______/  Radar file library: $IDL_IDLRAD  \_____________"
+tr "[A-Z]" "[a-z]" < $IDL_IDLRAD/alph.one | awk $pat

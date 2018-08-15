@@ -1,0 +1,116 @@
+	doc_stand.txt = documentation standard
+
+   ------  Standard format of built-in documentation  --------------
+
+	Adding built-in documentation to IDL routines.
+
+	A useful documentation technique is to use the keyword
+	/HELP in every routine submitted to the users library.
+	When called with /HELP the routine should give the following,
+	in this order:
+	(1) A one line description containing any keywords that may
+	    be useful for searching.
+	(2) The calling syntax.
+	(3) A description of all the parameters and results and
+	    if they are input or output parameters.
+	(4) Any keywords recognized by the routine (except for /HELP
+	    which is always assumed).
+	(5) Any useful notes.
+
+
+   ------  Examples of built-in documentation  -----------
+
+	To get help for a library procedure, for example
+	the procedure tvbox, do tvbox,/help which gives:
+
+	    Draw or erase a box on the image display. 
+	    tvbox, x, y, dx, dy, clr 
+	      x = Device X coordinate of lower left corner of box.  in 
+	      y = Device Y coordinate of lower left corner of box.  in 
+	      dx = Box X size in device units.                      in  
+	      dy = Box Y size in device units.                      in  
+	      clr = box color.                                      in 
+	         -1 to just erase last box (only last box). 
+	    Keywords: 
+	      /NOERASE  causes last drawn box not to be erased first. 
+ 
+ 
+	To get help for a library function, for example getwrd, do
+	x = getwrd(/help)   which gives:
+
+	    Return the n'th word from a text string.
+	    wrd = getwrd(txt, n, [m])
+	      txt = text string to extract from.         in
+	      n = word number to get (first = 0 = def).  in
+	      m = optional last word number to get.      in
+	      wrd = returned word or words.              out
+	    Keywords:
+	      LOCATION = l.  Return word n string location.
+	      DELIMITER = d. Set word delimiter (def = space).
+	      /LAST means n is offset from last word.  So n=0 gives
+	        last word, n=-1 gives next to last, ...
+	        If n=-2 and m=0 then last 3 words are returned.
+	      /NOTRIM suppresses whitespace trimming on ends.
+	    Note: if m > n wrd will be a string of words from word n to
+	      word m.  If no m is given wrd will be a single word.
+	      n<0 returns text starting at word abs(n) to string end
+	      If n is out of range then a null string is returned.
+	      See also nwrds.
+ 
+ 
+	It is useful to also give help if the wrong number of parameters
+	is used in the call.
+
+
+   ------  The IDL code for built-in documentation  -----------------
+
+	The corresponding program listings of the part related to the
+           help are:
+
+	For the procedure tvbox:
+	. . .
+	PRO TVBOX, X, Y, DX, DY, CLR, help=hlp, noerase=noeras 
+ 
+	IF (N_PARAMS(0) LT 5) or keyword_set(hlp) THEN BEGIN
+	  PRINT,' Draw or erase a box on the image display.'
+	  PRINT,' tvbox, x, y, dx, dy, clr'
+  	  PRINT,'   x = Device X coordinate of lower left corner of box.  in'
+  	  PRINT,'   y = Device Y coordinate of lower left corner of box.  in'
+	  PRINT,'   dx = Box X size in device units.                      in' 
+	  PRINT,'   dy = Box Y size in device units.                      in' 
+	  PRINT,'   clr = box color.                                      in'
+	  print,'      -1 to just erase last box (only last box).'
+	  print,' Keywords:'
+	  print,'   /NOERASE  causes last drawn box not to be erased first.'
+	  RETURN
+	ENDIF
+	. . .
+
+	For the function getwrd:
+	. . .
+	function getwrd, txtstr, nth, mth, help=hlp, location=ll,$
+	   delimiter=delim, notrim=notrim, last=last
+ 
+	if (n_params(0) lt 1) or keyword_set(hlp) then begin
+	  print," Return the n'th word from a text string."
+	  print,' wrd = getwrd(txt, n, [m])'
+	  print,'   txt = text string to extract from.         in'
+	  print,'   n = word number to get (first = 0 = def).  in'
+	  print,'   m = optional last word number to get.      in'
+	  print,'   wrd = returned word or words.              out'
+	  print,' Keywords:'
+	  print,'   LOCATION = l.  Return word n string location.'
+	  print,'   DELIMITER = d. Set word delimiter (def = space).'
+	  print,'   /LAST means n is offset from last word.  So n=0 gives'
+	  print,'     last word, n=-1 gives next to last, ...'
+	  print,'     If n=-2 and m=0 then last 3 words are returned.'
+	  print,'   /NOTRIM suppresses whitespace trimming on ends.'
+	  print,'Note: if m > n wrd will be a string of words from word n to'
+	  print,'      word m.  If no m is given wrd will be a single word.'
+	  print,'      n<0 returns text starting at word abs(n) to string end'
+	  print,'      If n is out of range then a null string is returned.'
+	  print,'      See also nwrds.'
+	  return, -1
+	endif
+	. . .
+

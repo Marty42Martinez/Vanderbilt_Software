@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines
+END
+juliandate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/juliandate.pro
+END
+polarscan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/polarscan.pro
+END
+vector2radec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/vector2radec.pro
+END
+n2dms.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/n2dms.pro
+END
+galpos.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/galpos.pro
+END
+polvecplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/polvecplot.pro
+END
+co_refract3.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/co_refract3.pro
+END
+co_refract_temp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/co_refract_temp.pro
+END
+eq2hor_old.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/eq2hor_old.pro
+END
+co_sphdist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/co_sphdist.pro
+END
+testmeowmeow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/testmeowmeow.pro
+END
+eq2hor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/eq2hor.pro
+END
+co_sunlongitude.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/co_sunlongitude.pro
+END
+juliandates.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/juliandates.pro
+END
+moonaltaz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/moonaltaz.pro
+END
+galaxy crossing sun el batch.pro
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/galaxy%20crossing%20sun%20el%20batch.pro
+END
+co_refract.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/co_refract.pro
+END
+co_aberration.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/co_aberration.pro
+END
+mjd2doy.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/mjd2doy.pro
+END
+tauaresponse.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/tauaresponse.pro
+END
+odellastro.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/odellastro.tar.gz
+END
+test eq2hor reversibility.pro
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/test%20eq2hor%20reversibility.pro
+END
+co_nutate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/co_nutate.pro
+END
+test eq2hor speed.pro
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/test%20eq2hor%20speed.pro
+END
+hadec2altaz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/hadec2altaz.pro
+END
+altaz2hadec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/altaz2hadec.pro
+END
+co_precess.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/co_precess.pro
+END
+co_abberation.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/co_abberation.pro
+END
+jd2season.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/jd2season.pro
+END
+splitdate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/splitdate.pro
+END
+FindAzEl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/FindAzEl.pro
+END
+test_spherical_trig.pro
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/test_spherical_trig.pro
+END
+hor2eq.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/hor2eq.pro
+END
+cozenpos.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/cozenpos.pro
+END
+sunaltaz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/sunaltaz.pro
+END
+galplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/galplot.pro
+END
+rd2azel.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/rd2azel.pro
+END
+jd2ct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/jd2ct.pro
+END
+m101 location.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/m101%20location.pro
+END
+GMST.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/GMST.pro
+END
+goesJD.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/goesJD.pro
+END
+date2doy.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/date2doy.pro
+END
+doy2date.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/doy2date.pro
+END
+sunangle.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/sunangle.pro
+END
+geoid_height.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/astrolib/codroutines/geoid_height.pro
+END

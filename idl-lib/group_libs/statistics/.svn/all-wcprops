@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/bennartz_group/!svn/ver/767/LIBRARY/idl/group_libs/statistics
+END
+ttest.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/390/LIBRARY/idl/group_libs/statistics/ttest.pro
+END
+rmse.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/statistics/rmse.pro
+END
+stat_iter__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/767/LIBRARY/idl/group_libs/statistics/stat_iter__define.pro
+END
+minmax.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/235/LIBRARY/idl/group_libs/statistics/minmax.pro
+END
+bias.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/statistics/bias.pro
+END

@@ -1,0 +1,1145 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/775/LIBRARY/idl/std_libs/fanning/coyoteprograms
+END
+stationplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/stationplot.pro
+END
+cgwindow_getdefs.pro
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgwindow_getdefs.pro
+END
+getdecomposedstate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/getdecomposedstate.pro
+END
+color24.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/color24.pro
+END
+pickcolorname.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/pickcolorname.pro
+END
+cgcolor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgcolor.pro
+END
+drawcolors__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/drawcolors__define.pro
+END
+cgdemodata.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgdemodata.pro
+END
+setdefaultvalue.pro
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/setdefaultvalue.pro
+END
+textbox.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/textbox.pro
+END
+cgwindow_setdefs.pro
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgwindow_setdefs.pro
+END
+clipboard.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/clipboard.pro
+END
+errorlogger__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/errorlogger__define.pro
+END
+contrastzoom.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/contrastzoom.pro
+END
+ps_end.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/ps_end.pro
+END
+sort_nd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/sort_nd.pro
+END
+shapeinfo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/shapeinfo.pro
+END
+fsc_psconfig__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fsc_psconfig__define.pro
+END
+xcd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/xcd.pro
+END
+getprimaryscreensize.pro
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/getprimaryscreensize.pro
+END
+cgdisplay.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgdisplay.pro
+END
+ncdf_castdatatype.pro
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/ncdf_castdatatype.pro
+END
+whocalledme.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/whocalledme.pro
+END
+cgdcbar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgdcbar.pro
+END
+repmat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/repmat.pro
+END
+ncdf_dimension__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/ncdf_dimension__define.pro
+END
+greek.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/greek.pro
+END
+cgtext.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgtext.pro
+END
+symcat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/symcat.pro
+END
+fsc_plotwindow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fsc_plotwindow.pro
+END
+fsc_brewer.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fsc_brewer.tbl
+END
+progressbar__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/progressbar__define.pro
+END
+cw_spacer.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cw_spacer.pro
+END
+cgimageinfo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgimageinfo.pro
+END
+cindex.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cindex.pro
+END
+pswindow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/pswindow.pro
+END
+image_dimensions.pro
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/image_dimensions.pro
+END
+linkedlist__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/linkedlist__define.pro
+END
+canconnect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/canconnect.pro
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/README.txt
+END
+adjustposition.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/adjustposition.pro
+END
+aspect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/aspect.pro
+END
+cgwindow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgwindow.pro
+END
+imageselect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/imageselect.pro
+END
+logscl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/logscl.pro
+END
+hcolorbar__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/hcolorbar__define.pro
+END
+ixyouts.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/ixyouts.pro
+END
+ncdf_isvalidfile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/ncdf_isvalidfile.pro
+END
+scrollwindow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/scrollwindow.pro
+END
+cgplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgplot.pro
+END
+clipscl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/clipscl.pro
+END
+dirpath.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/dirpath.pro
+END
+fit_ellipse.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fit_ellipse.pro
+END
+cghistoplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cghistoplot.pro
+END
+help_var.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/help_var.pro
+END
+vcolorbar__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/vcolorbar__define.pro
+END
+resolve_object.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/resolve_object.pro
+END
+setdifference.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/setdifference.pro
+END
+fsc_ps_setup__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fsc_ps_setup__define.pro
+END
+gmascl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/gmascl.pro
+END
+savetomain.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/savetomain.pro
+END
+fsc_colorbar__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fsc_colorbar__define.pro
+END
+xmovie.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/xmovie.pro
+END
+psconfig.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/psconfig.pro
+END
+texture_surface.pro
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/texture_surface.pro
+END
+mpi_axis.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/mpi_axis.pro
+END
+cgsnapshot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgsnapshot.pro
+END
+cgerase.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgerase.pro
+END
+cgplots.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgplots.pro
+END
+cgloadct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgloadct.pro
+END
+ps_background.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/ps_background.pro
+END
+fsc_pickfile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fsc_pickfile.pro
+END
+centertlb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/centertlb.pro
+END
+find_resource_file.pro
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/find_resource_file.pro
+END
+hasimagemagick.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/hasimagemagick.pro
+END
+cgshow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgshow.pro
+END
+fsc_normalize.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fsc_normalize.pro
+END
+reverse_axes.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/reverse_axes.pro
+END
+cgimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgimage.pro
+END
+gridpositions.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/gridpositions.pro
+END
+hdfread.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/hdfread.pro
+END
+undefine.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/undefine.pro
+END
+cgcontour.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgcontour.pro
+END
+timestamp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/timestamp.pro
+END
+histomatch.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/histomatch.pro
+END
+arcsample.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/arcsample.pro
+END
+colorbuttonbitmap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/colorbuttonbitmap.pro
+END
+fsc_zimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fsc_zimage.pro
+END
+addtopath.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/addtopath.pro
+END
+themonths.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/themonths.pro
+END
+fsc_colorselect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fsc_colorselect.pro
+END
+reverseindices.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/reverseindices.pro
+END
+programrootdir.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/programrootdir.pro
+END
+list_selector.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/list_selector.pro
+END
+number_formatter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/number_formatter.pro
+END
+fsc_field.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fsc_field.pro
+END
+cgquery.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgquery.pro
+END
+floats_equal.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/floats_equal.pro
+END
+name_selector.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/name_selector.pro
+END
+precipmap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/precipmap.pro
+END
+convert_to_type.pro
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/convert_to_type.pro
+END
+binary.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/binary.pro
+END
+image_blend.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/image_blend.pro
+END
+ncdf_variable__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/ncdf_variable__define.pro
+END
+select_objects.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/select_objects.pro
+END
+fixps.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fixps.pro
+END
+cgimageinfodescribevalues.pro
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgimageinfodescribevalues.pro
+END
+cgsurf.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgsurf.pro
+END
+maxmin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/maxmin.pro
+END
+ms_filetime.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/ms_filetime.pro
+END
+jd2time.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/jd2time.pro
+END
+ps_start.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/ps_start.pro
+END
+setdecomposedstate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/setdecomposedstate.pro
+END
+sharpen.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/sharpen.pro
+END
+cgsurface.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgsurface.pro
+END
+cgset.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgset.pro
+END
+colorsareidentical.pro
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/colorsareidentical.pro
+END
+drawcounties.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/drawcounties.pro
+END
+ncdf_file_examples.pro
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/ncdf_file_examples.pro
+END
+maxwindowsize.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/maxwindowsize.pro
+END
+object_shade_surf.pro
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/object_shade_surf.pro
+END
+windowimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/windowimage.pro
+END
+hdfwrite.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/hdfwrite.pro
+END
+bitget.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/bitget.pro
+END
+map_gshhs_shoreline.pro
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/map_gshhs_shoreline.pro
+END
+decomposedcolor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/decomposedcolor.pro
+END
+getimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/getimage.pro
+END
+mpi_axis__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/mpi_axis__define.pro
+END
+gaussscl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/gaussscl.pro
+END
+cw_drawcolor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cw_drawcolor.pro
+END
+windbarb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/windbarb.pro
+END
+pwd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/pwd.pro
+END
+capfirstletter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/capfirstletter.pro
+END
+blob_analyzer__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/blob_analyzer__define.pro
+END
+zoombox.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/zoombox.pro
+END
+fsc_resize_image.pro
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fsc_resize_image.pro
+END
+cgcolorfill.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgcolorfill.pro
+END
+coyotegraphic.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/coyotegraphic.pro
+END
+drawshapes.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/drawshapes.pro
+END
+cgboxplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgboxplot.pro
+END
+transform_volume.pro
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/transform_volume.pro
+END
+setunion.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/setunion.pro
+END
+asinhscl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/asinhscl.pro
+END
+cgarrow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgarrow.pro
+END
+windowavailable.pro
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/windowavailable.pro
+END
+cgcolorbar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgcolorbar.pro
+END
+drawstates.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/drawstates.pro
+END
+rangeof.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/rangeof.pro
+END
+get_object_id.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/get_object_id.pro
+END
+mpi_plotconfig__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/mpi_plotconfig__define.pro
+END
+ncdf_file__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/ncdf_file__define.pro
+END
+mpi_plot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/mpi_plot.pro
+END
+scalemodis.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/scalemodis.pro
+END
+printwindow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/printwindow.pro
+END
+ncdf_container__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/ncdf_container__define.pro
+END
+pickcolor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/pickcolor.pro
+END
+owindow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/owindow.pro
+END
+dbltostr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/dbltostr.pro
+END
+error_message.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/error_message.pro
+END
+make_transparent_image.pro
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/make_transparent_image.pro
+END
+fpufix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fpufix.pro
+END
+cgblendimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgblendimage.pro
+END
+textlineformat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/textlineformat.pro
+END
+jn2time.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/jn2time.pro
+END
+scale_vector.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/scale_vector.pro
+END
+printpath.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/printpath.pro
+END
+fsc_fileselect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fsc_fileselect.pro
+END
+cgdelete.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgdelete.pro
+END
+checkerboard.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/checkerboard.pro
+END
+ncdf_browser.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/ncdf_browser.pro
+END
+cgaxis.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgaxis.pro
+END
+findmapboundary.pro
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/findmapboundary.pro
+END
+setintersection.pro
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/setintersection.pro
+END
+find_boundary.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/find_boundary.pro
+END
+whoami.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/whoami.pro
+END
+xcolors.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/xcolors.pro
+END
+cgcontrol.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgcontrol.pro
+END
+fsc_droplist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fsc_droplist.pro
+END
+fsc_inputfield.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fsc_inputfield.pro
+END
+cgdefcharsize.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/cgdefcharsize.pro
+END
+simple_surface.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/simple_surface.pro
+END
+str_size.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/str_size.pro
+END
+fsc_zplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fsc_zplot.pro
+END
+xstretch.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/xstretch.pro
+END
+fsc_base_filename.pro
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/fsc_base_filename.pro
+END
+ncdf_attribute__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/ncdf_attribute__define.pro
+END
+leftjustify.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/leftjustify.pro
+END
+randomnumbergenerator__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/randomnumbergenerator__define.pro
+END
+inside.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/inside.pro
+END
+ncdf_data__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/bennartz_group/!svn/ver/463/LIBRARY/idl/std_libs/fanning/coyoteprograms/ncdf_data__define.pro
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/821/LIBRARY/idl/group_libs/plotting/various
+END
+position_plot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/plotting/various/position_plot.pro
+END
+box.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/766/LIBRARY/idl/group_libs/plotting/various/box.pro
+END
+multi_plot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/plotting/various/multi_plot.pro
+END
+tvrd_and_invert.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/plotting/various/tvrd_and_invert.pro
+END
+plot_range.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/821/LIBRARY/idl/group_libs/plotting/various/plot_range.pro
+END
+dline.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/397/LIBRARY/idl/group_libs/plotting/various/dline.pro
+END
+vline.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/plotting/various/vline.pro
+END
+hline.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/plotting/various/hline.pro
+END

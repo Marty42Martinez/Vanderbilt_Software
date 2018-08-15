@@ -1,0 +1,34 @@
+<<<<<<< .mine
+FUNCTION mascobs_container::psd_plot, titlename=titlename, binsize=binsize
+=======
+FUNCTION mascobs_container::PSD_plot, titlename=titlename, binsize=binsize,_EXTRA=_EXTRA,color=color,dmax=dmax
+>>>>>>> .r142
+;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%;
+;%%%%%Created by:Marty: August 24, 2015%%%%%;
+;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%;
+;%%%%%%%%%%%%%%%%Description%%%%%%%%%%%%%%%%;
+;calls psd_struct and creates a nice graphic
+;of the PSD
+
+  KEYWORD_DEFAULT,titlename,'Snowflake Particle Size Distribution'
+  KEYWORD_DEFAULT, binsize, 0.01 ;centimeters
+  KEYWORD_DEFAULT, color, 'blue' ;centimeters
+
+  PSD = self -> psd_struct(binsize=binsize,dmax=dmax)
+  
+  ;loghist = alog(PSD.hist > 1.0)
+  ;stop
+  
+<<<<<<< .mine
+  h = plot(PSD.xpl*10,PSD.meashist>0.5, yrange=[1,1000],xrange=[.01,8], ylog=1,color='blue', linestyle='-',symbol=3,sym_size=8,/ystyle,$
+  xtitle='Particle Size (Dmax [mm])',ytitle='$N_D$',title=titlename,name='MASC Measurements',font_size=20,thick=2.5)
+=======
+  h = plot(PSD.xpl,PSD.hist >1.0, yrange=[0.9,3000],xrange=[.001,0.5], ylog=1,color=color, linestyle=0,symbol=3,sym_size=11,/ystyle,$
+  xtitle='Particle Size (D_LE: centimeters)',ytitle='$Log(N_D)$',title=titlename,name='MASC Measurements',font_size=20,thick=2.5,_EXTRA=_EXTRA)
+>>>>>>> .r142
+  ;stop
+  
+  return, h
+
+
+end

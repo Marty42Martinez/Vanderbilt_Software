@@ -1,0 +1,103 @@
+6 Apr 1995
+  IDL_CLEAN: New routine to clean up IDL code.  RES
+4 Apr 1995
+  FURN: Added a computer table (4 x 3 ft) to defaults.  RES
+3 Mar 1995
+  XDC: New routine to make or display colors from the X11 rgb.txt file.  RES
+28 Feb 1995
+  SET_SCALE: Moved to IDLUSR.  RES
+  PUT_SCALE: Moved to IDLUSR.  RES
+  SET_SCALE: New routine to set scaling from embedded info from image.  This
+    info can be embedded using put_scale.  RES
+  PUT_SCALE: New routine to embed scaling info in current image.  Uses
+    upgraded format and can handle log axes.  RES
+  GIF_SCALE: Replaced by set_scale so this routine was dropped.  RES
+15 Feb 1995
+  GIF_SCALE: New routine that uses scaling info embedded in the currently
+    displayed image to set IDL scaling.  Do gif_scale,/help for details.  RES
+9 Feb 1995
+  FURN: Old routine, moved to library.  See also furn.txt in same place.  RES
+30 Jan 1995
+  GIF_SCALE: read image scaling info from image and set scaling.  RES
+15 Jun 1994
+  PDEF: New routine to set custom plot defaults.  RES
+6 May 1994
+  TIF2COLOR: Fixed a minor bug (had /order on tvlct instead of tv).  
+    Also added /NOLOAD option to allow in memory conversion.  RES
+21 Dec 1993
+  SOUND: Revised.  RES
+14 Dec 1993
+  SOUND: Ported from Sun Spark.  RES
+13 Dec 1993
+  CBAR: Curve and bar plot program.  Never used.  RES
+2 Dec 1993
+  TIF2COLOR: Fixed orientation problem.  RES 
+  TIF2BW: Fixed orientation problem.  RES
+16 Sep 1993
+  GIF: Reworded the options.  RES
+  TIF: Added TIFF to GIF conversion option.  RES
+  TIF2GIF: New routine to convert a TIFF file to a GIF file.  RES
+8 Sep 1993
+  SUBTREE: Added total blocks at end of listing. RES
+2 Sep 1993
+  TIF: Now reads the order parameter from the TIFF file for correct load.  RES
+  GIF2TIF: New routine to conver GIF to TIFF.  RES
+  GIF: Added GIF to TIFF conversion option.  RES
+27 Aug 1993
+  TIF:  This and the following are the TIFF viewer and related routines.  RES
+  TIF_DEL: 
+  TIF2COLOR: 
+  TIF2BW: 
+22 Jun 1993
+  SUBTREE: Added current directory as the default directory.  RES
+22 Jun 1993
+  CPLOT: New routine that does character plots on screen or in array.  RES
+4 Jun 1993
+  GIF_DEL: Fixed a minor typo.  RES
+4 Jun 1993
+  GIF: Added wildcard and list position to common memory.  Also
+    moved the delete option to last.  RES
+3 Jun 1993
+  GIF2BW: Just used LIBR to move into library to enter into liner file.  RES
+1 Jun 1993
+  GIF2COLOR: New routine to convert a GIF image to a standard color image
+    using color_quan with the cube=6 option.  OK for high spatial frequencies,
+    not as good for slow shading trends.  Advantage is that all such
+    converted images shared the same color table so may be viewed
+    at the same time.  RES
+  GIF: Changed quit text. Added GIF to color conversion.   RES
+18 May 1993
+  ZOOM_DUM: New routine to zoom (ignores required file name).  RES
+18 May 1993
+  GIF_DEL: New routine to delete a GIF file.  RES
+18 May 1993
+  GIF: Added Zoom and delete options.  RES
+30 Mar 1993
+  REFINANCE: New routine to look at refinancing a loan.  RES
+  MORT: Added notes on picking up a computation in the middle.  RES
+29 Mar 1993
+  MORT: Removed reference to array function.  Also allowed extra on principal
+    to be entered as a negative number. RES
+11 Mar 1993
+  FOOTPRINT: Added help text.  RES
+  VMSTIME: Dropped from IDLUSR2.  RES
+2 Mar 1993
+  CBAR: Moved from IDLUSR.  RES
+16 Feb 1993
+  GET_EXT:  Modified display of extensions to show *.ext.  Was just
+    .ext.  With the * can now sweep up file names as a wildcard to
+    to listings of all files with a certain extension.  RES
+3 Feb 1993
+  DIR_VIEW: New routine to help keep directories clean.  RES
+  GET_EXT:  New.  Used by dir_view to display unique file extensions.  RES
+  PICK_DIR: New.  Used by dir_view to select directory to view.  RES
+  SUBTREE:  New.  Used by dir_view to display the directory subtree.  RES
+2 Feb 1993
+  GIF: New routine that uses the IDL routine READ_GIF.  RES
+27 Jan 1993
+  VMSTIME: moved from IDLUSR.  RES
+  REDSHIFT: moved from IDLUSR.  RES
+  MORT: moved from IDLUSR. RES
+26 Jan 1993
+  AUTOSCALE: moved from idlusr.  res
+ 

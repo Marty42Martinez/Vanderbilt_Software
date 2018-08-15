@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/631/LIBRARY/idl/group_libs/OBJECTS/TIME_SERIES
+END
+time_series__new.pro
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/bennartz_group/!svn/ver/418/LIBRARY/idl/group_libs/OBJECTS/TIME_SERIES/time_series__new.pro
+END
+time_series__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/bennartz_group/!svn/ver/418/LIBRARY/idl/group_libs/OBJECTS/TIME_SERIES/time_series__define.pro
+END
+time_series__get_tag.pro
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/bennartz_group/!svn/ver/555/LIBRARY/idl/group_libs/OBJECTS/TIME_SERIES/time_series__get_tag.pro
+END
+time_series__plot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/bennartz_group/!svn/ver/631/LIBRARY/idl/group_libs/OBJECTS/TIME_SERIES/time_series__plot.pro
+END
+time_series__get.pro
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/bennartz_group/!svn/ver/418/LIBRARY/idl/group_libs/OBJECTS/TIME_SERIES/time_series__get.pro
+END
+time_series__select.pro
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/bennartz_group/!svn/ver/418/LIBRARY/idl/group_libs/OBJECTS/TIME_SERIES/time_series__select.pro
+END
+time_series__ohelp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/bennartz_group/!svn/ver/606/LIBRARY/idl/group_libs/OBJECTS/TIME_SERIES/time_series__ohelp.pro
+END
+time_series__add.pro
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/bennartz_group/!svn/ver/631/LIBRARY/idl/group_libs/OBJECTS/TIME_SERIES/time_series__add.pro
+END
+time_series__deselect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/bennartz_group/!svn/ver/418/LIBRARY/idl/group_libs/OBJECTS/TIME_SERIES/time_series__deselect.pro
+END

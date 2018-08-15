@@ -1,0 +1,12 @@
+VERSION:
+  You are using version $Name: Rel_2_0 $ of TeXtoIDL.
+
+REVISION HISTORY:
+   Version 1.0 --- Initial release.
+
+   Version 1.1 --- Added \circ, fixed vector \varphi.
+
+   Version 1.2 --- Added \vartheta.
+
+   Version 2.0 --- Renamed strtok to str_token to avoid name conflict 
+		   in IDL 5.3. Still work sin older version of IDL.

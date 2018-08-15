@@ -1,0 +1,6 @@
+
+  The purpose of the IDL library IDLDOC is to hold routines
+  routines related to the maintenance of the other IDL libraries.
+  The main routine in this library is LIBR.  Also of interest is
+  the shell script LINER which is intended to be personally
+  customized for each user to search their own specified libraries.

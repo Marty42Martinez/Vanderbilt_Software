@@ -1,0 +1,236 @@
+
+  Notes on using LIBR to maintain IDL libraries  (14 Jan, 1993)
+  ---------------------------------------------
+
+  LIBR may be used to help you maintain multiple libraries of
+  documented IDL routines.
+
+  The big advantage of using LIBR is that routines may quickly be
+  located using keywords that describe them.
+
+  The disadvantage of using LIBR is that you must discipline yourself
+  to use a rather strict format for built in help.  This is not hard
+  but really should be done routinely for every routine you wish to
+  place in such a library.  The time spent in adding this built in
+  help will be repaid many times over in time saved in finding the
+  calling syntax and locating routines when the name has been forgotten.
+
+  If you decide to use LIBR there are several things you must do and know.
+  (1) You need to know about the auxiliary files maintained in each
+      library and what they are for.
+  (2) You must set up three short files in your home directory.
+  (3) You need to know the format of the built in help.
+
+
+  ====================================================================
+                     Auxiliary files maintained
+  ====================================================================
+
+   There are four auxiliary text files maintained by LIBR in each library.
+   They are:
+
+   alph.one: A list of one line descriptions for each routine in the
+       library.  These are kept in alphabetical order and are searched
+       by the LINER utility.  LIBR adds a new entry into this list or
+       overwrites an existing entry.
+
+   cat.one: One line descriptions for each routine in the library.  These
+       meant to be kept in categories.  If LIBR finds an entry for the
+       routine in question it overwrites it, else it adds the new entry
+       to the front of cat.one.  You should manually edit this file
+       occasionally to put such front end entries in their proper place.
+
+   newlist.txt: A list of routines added to the library since the file
+       newlist.txt has existed, that is, all new routines added since 
+       newlist.txt was last deleted.  LIBR adds each added or updated
+       routine name to this list unless it is already there.
+
+   release_notes.txt: This is a record of all changes to the library.
+       It should be kept up to date.  The date should appear only once
+       in this file, just delete extra dates.
+
+
+  ====================================================================
+                     Home directory files needed
+  ====================================================================
+
+  Three short files must be set up in your home directory:
+  .idl_libs    lists your primary library directories and optional backups.
+  .idl_id      gives your name and initials to allow automatic generation
+               of the standard IDL front end template.
+  .idl_editor  names your favorite text editor.
+
+  Each of the files allows comment lines which are ignored.  Comment lines
+  must have a semicolon (;) in the first column.
+
+  .idl_libs
+  ---------
+  .idl_libs defines your library directories.  An example .idl_libs file is:
+
+  ;-------------  Library list  --------------------
+  ;------ Main library ------   ------  Mirror library  --------
+  /data_bases/idl_libs/idlusr   /users/sterner/idl/mirror/idlusr
+  /data_bases/idl_libs/idlusr2  /users/sterner/idl/mirror/idlusr2
+  /data_bases/idl_libs/idlspec  /users/sterner/idl/mirror/idlspec
+
+  The syntax for each non-comment line is:
+  main_library  mirror_library
+  where the main and mirror library directory names are separated by
+  white space (spaces or tabs).
+  The mirror libraries are optional, you may have mirror libraries for
+  some, all, or none of the main libraries.  Mirror libraries are just
+  backups of the main libraries.
+
+  .idl_id
+  -------
+  .idl_id gives your name and initials.  The file format is:
+
+  last_name
+  first initial
+  first_name
+  initials
+
+  An example .idl_id file is:
+
+  ;------  .idl_id = User ID used by getmodhist
+  sterner
+  r
+  ray
+  res
+
+  This information allows a standard IDL front end template to be generated
+  even if the routine doesn't have one to start.  To generate this front
+  end requires that the built in help be present and conform to the standard
+  format defined in the next section.  If the author of the routine includes
+  their name (or initials) in a comment line at the front of their routine
+  the librarian software can usually find it and include it in the standard
+  front end.  This reduces the amount of required typing.
+
+  .idl_editor
+  -----------
+  .idl_editor names your favorite text editor.  The format is:
+
+  editor_name
+
+  An example .idl_editor file is:
+
+  ;------  Editor to use from IDL spawn  --------
+  vi
+
+
+  ====================================================================
+                         Built in help
+  ====================================================================
+
+	Adding standard built in help to IDL routines.
+
+	A useful documentation technique is to use the keyword
+	/HELP in every routine submitted to the users library.
+	When called with /HELP the routine should give the following,
+	in this order:
+	(1) A one line description containing any keywords that may
+	    be useful for searching.
+	(2) The calling syntax.
+	(3) A description of all the parameters and results and
+	    if they are input or output parameters.
+	(4) Any keywords recognized by the routine (except for /HELP
+	    which is always assumed).
+	(5) Any useful notes.
+
+
+   ------  Examples of built in help  -----------
+
+	To get help for a library procedure, for example
+	the procedure tvbox, do tvbox,/help which gives:
+
+	    Draw or erase a box on the image display. 
+	    tvbox, x, y, dx, dy, clr 
+	      x = Device X coordinate of lower left corner of box.  in 
+	      y = Device Y coordinate of lower left corner of box.  in 
+	      dx = Box X size in device units.                      in  
+	      dy = Box Y size in device units.                      in  
+	      clr = box color.                                      in 
+	         -1 to just erase last box (only last box). 
+	    Keywords: 
+	      /NOERASE  causes last drawn box not to be erased first. 
+ 
+ 
+	To get help for a library function, for example getwrd, do
+	x = getwrd(/help)   which gives:
+
+	    Return the n'th word from a text string.
+	    wrd = getwrd(txt, n, [m])
+	      txt = text string to extract from.         in
+	      n = word number to get (first = 0 = def).  in
+	      m = optional last word number to get.      in
+	      wrd = returned word or words.              out
+	    Keywords:
+	      LOCATION = l.  Return word n string location.
+	      DELIMITER = d. Set word delimiter (def = space).
+	      /LAST means n is offset from last word.  So n=0 gives
+	        last word, n=-1 gives next to last, ...
+	        If n=-2 and m=0 then last 3 words are returned.
+	      /NOTRIM suppresses whitespace trimming on ends.
+	    Note: if m > n wrd will be a string of words from word n to
+	      word m.  If no m is given wrd will be a single word.
+	      n<0 returns text starting at word abs(n) to string end
+	      If n is out of range then a null string is returned.
+	      See also nwrds.
+ 
+ 
+	It is useful to also give help if the wrong number of parameters
+	is used in the call.
+
+
+   ------  The IDL code for built in help  -----------------
+
+	The corresponding program listings of the part related to the
+           help are:
+
+	For the procedure tvbox:
+	. . .
+	PRO TVBOX, X, Y, DX, DY, CLR, help=hlp, noerase=noeras 
+ 
+	IF (N_PARAMS(0) LT 5) or keyword_set(hlp) THEN BEGIN
+	  PRINT,' Draw or erase a box on the image display.'
+	  PRINT,' tvbox, x, y, dx, dy, clr'
+  	  PRINT,'   x = Device X coordinate of lower left corner of box.  in'
+  	  PRINT,'   y = Device Y coordinate of lower left corner of box.  in'
+	  PRINT,'   dx = Box X size in device units.                      in' 
+	  PRINT,'   dy = Box Y size in device units.                      in' 
+	  PRINT,'   clr = box color.                                      in'
+	  print,'      -1 to just erase last box (only last box).'
+	  print,' Keywords:'
+	  print,'   /NOERASE  causes last drawn box not to be erased first.'
+	  RETURN
+	ENDIF
+	. . .
+
+	For the function getwrd:
+	. . .
+	function getwrd, txtstr, nth, mth, help=hlp, location=ll,$
+	   delimiter=delim, notrim=notrim, last=last
+ 
+	if (n_params(0) lt 1) or keyword_set(hlp) then begin
+	  print," Return the n'th word from a text string."
+	  print,' wrd = getwrd(txt, n, [m])'
+	  print,'   txt = text string to extract from.         in'
+	  print,'   n = word number to get (first = 0 = def).  in'
+	  print,'   m = optional last word number to get.      in'
+	  print,'   wrd = returned word or words.              out'
+	  print,' Keywords:'
+	  print,'   LOCATION = l.  Return word n string location.'
+	  print,'   DELIMITER = d. Set word delimiter (def = space).'
+	  print,'   /LAST means n is offset from last word.  So n=0 gives'
+	  print,'     last word, n=-1 gives next to last, ...'
+	  print,'     If n=-2 and m=0 then last 3 words are returned.'
+	  print,'   /NOTRIM suppresses whitespace trimming on ends.'
+	  print,'Note: if m > n wrd will be a string of words from word n to'
+	  print,'      word m.  If no m is given wrd will be a single word.'
+	  print,'      n<0 returns text starting at word abs(n) to string end'
+	  print,'      If n is out of range then a null string is returned.'
+	  print,'      See also nwrds.'
+	  return, -1
+	endif
+	. . .
+

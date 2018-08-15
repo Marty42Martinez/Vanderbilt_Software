@@ -1,0 +1,132 @@
+
+  setup.doc = How to setup and use the JHUAPL IDL libraries.
+
+  What should have been done up to this point
+  -------------------------------------------
+  If everything has worked as described in the README file you
+  should have the 3 JHUAPL libraries in 3 subdirectories of some
+  local IDL library root.  For example, assume the library root
+  directory is called idl_libs (it is just some subdirectory in
+  a convenient location).  The 3 JHUAPL subdirectories might be
+  named idlusr, idlusr2, and idldoc.  The file you are reading
+  should have been found in idldoc.
+
+ 
+  What the JHUAPL libraries do for you
+  ------------------------------------
+  The contents of the JHUAPL libraries provide a number of services:
+  1.  A set of hopefully useful routines (in the libraries).
+  2.  A file to define the environmental variables needed by IDL and
+      the JHUAPL libraries (setidl).
+  3.  Easy support for PostScript printers on your system (psinit,...).
+  4.  A utility to locate JHUAPL routines (and conforming local routines)
+      by keywords (liner).
+  5.  A utility to help maintain your own local IDL libraries (libr).
+  6.  A utility to give you easier control over the !path variable (pcon).
+
+ 
+  Needed environmental variables and why they are used
+  ----------------------------------------------------
+  IDL itself uses a number of environmental variables.  Two are
+  IDL_STARTUP which points to a startup file containing IDL statements
+  which are executed every time IDL is entered, and IDL_PATH which
+  defines your initial search path in IDL, that is, where to find IDL
+  routines.  Some of the JHUAPL library routines also use environmental
+  variables.  One, IDL_PSPRINTERS, points to a text file that describes
+  the PostScript printers on your system.  The others just point to the
+  library directories.  This allows library routines to reference
+  auxiliary files, such as help files or data files, that are located
+  in the library directory.  The 3 library environmental variables
+  needed by the JHUAPL libraries are: IDL_IDLUSR, IDL_IDLUSR2, and
+  IDL_IDLDOC.  Each just specifies the appropriate library subdirectory.
+
+ 
+  Setting up the needed IDL environmental variables
+  -------------------------------------------------
+  The JHUAPL library idldoc contains the file setidl which contains
+  a number of setenv commands.  This file is intended to define the
+  environmental variables needed both by IDL itself and by the
+  JHUAPL IDL libraries.  This file MUST BE CUSTOMIZED for your local site.
+  It may be useful to keep a backup set of libraries on another system so
+  that if one system goes down the libraries will still be available.
+  A second version of setidl, setidl2, may be created to allow a switch
+  between the main and backup libraries to easily be done.
+  Each IDL user should copy the local versions of setidl into their home
+  directory and add the following line to their .cshrc file:
+     source $HOME/setidl
+  There are several other useful suggestions in the setidl file itself,
+  such as putting your startup file in HOME/idl/idlstartup.pro where HOME is
+  your HOME directory.  You may add environmental variables to point to your
+  own local libraries.  
+
+ 
+  PostScript printer support
+  ---------------------------
+  The idlusr library routine psinit makes it easy to redirect IDL graphics
+  to any PostScript on your computer system.  This routine requires a text
+  file that gives for each printer the print command and a message to
+  display for that printer.  It also requires an environmental variable
+  that points to this file.  The text file idl_psprinters.doc in the idldoc
+  library gives all the details.
+
+
+  Liner
+  -----
+  One major weakness with the online IDL help is that there is no easy way to
+  search for a routine when its name is not known.  The utility liner, in the
+  idldoc library, provides a way to do this for the JHUAPL routines.  You
+  may add your own routines into this search by providing a one line
+  description file called alph.one for each local IDL library.  Although
+  alph.one files may be manually created, the librarian utility, libr
+  (described in the next section) will automatically create and update
+  these files.  The liner file should be copied to a directory that is
+  normally on each users path, such as /usr/local/bin.  The liner file
+  MUST BE CUSTOMIZED, at least to drop references to non-existant libraries.
+  Liner works in conjunction with the environmental variables defined by
+  setidl as described in the last section.
+
+
+  Libr
+  ----
+  Libr may be used to help you maintain multiple libraries of
+  documented IDL routines.  It will only work on a fast unix machine.
+  The big advantage of using LIBR is that routines may quickly be
+  located using keywords that describe them.
+  The disadvantage of using LIBR is that you must discipline yourself
+  to use a rather strict format for built-in help.  This is not hard
+  but really should be done routinely for every routine you wish to
+  place in such a library.  The time spent in adding this built-in
+  help will be repaid many times over in time saved in finding the
+  calling syntax and locating routines when the name has been forgotten.
+  When the JHUAPL libraries have been properly added to your IDL path,
+  and the needed environmental variables have been defined you will be able
+  to get all the details needed to use libr from help within libr itself.
+
+  Pcon
+  ----
+  Pcon is the path control utility routine.  It allows you to refer to
+  library directories using short tag names to turn libraries on or off.
+  Pcon may be given a command to turn a library on or off, or may be used
+  in an interactive mode.  It may also be used to list known libraries
+  and indicate which are active.  The short tag names are matched with
+  the full library directory paths in the pcon setup file.  This file
+  is specified by the environmental variable IDL_PCON.  If IDL_PCON is not
+  defined then pcon looks for the file .idl_pcon in your home directory.
+  Each library is described by one or two lines in the file:
+  tag directory_path
+    optional library description line
+  The tag must start in the first column.  The optional description must
+  be indented one or more spaces.  Lines starting with * or ; in the first
+  column, and null lines, are ignored and may be used as comments.
+  An example pcon setup file with two libraries is:
+*-----  .idl_pcon = IDL library list for pcon.pro  ----
+USR     /data_bases/idl_libs/idlusr
+ Local, general interest.
+STATLIB /usr/local/lib/idl/lib/statlib
+ IDL, statistics routines.
+
+  Pcon allows you to work with shorter search paths since it makes
+  libraries so easy to turn on when needed.  The main reason for keeping
+  the search path short is not so much for speed as to avoid name
+  conflicts.  Pcon also lets you rearrange the order in which libraries
+  are searched.

@@ -1,0 +1,36 @@
+  cbar.pro plots multi-curve plots and bar plots.
+  All control is from commands in a command file.
+  The commands are:
+
+  debug					Does a debug program stop.
+  color = name1, name2, ... namen	List of color names, one for each bar.
+					May also be color numbers.
+  psym = n1, n2, ..., nn		List of symbol numbers.
+  yrange = ymin, ymax			Set plot yrange.
+  yticks = n				Set number of plot y ticks.
+  xcharsize = s				Set X char size.
+  ycharsize = s				Set Y char size.
+  ystyle = s				Set Y axis style.
+  position = xmin, ymin, xmax, ymax	Set plot position.
+  linestyle = l1, l2, ..., ln		Set line styles for each curve.
+  barwidth = w				Set bar width (LE 1.0, def = .8).
+  hardcopy = n				HC option: 0=none,1=top,2=full,3=land.
+  outline = name1, name2, ..., namen	Set bar outline color names.
+  thickness = t1, t2, ..., tn		Set curve or bar outline thicknesses.
+  xtitle = text				X axis text.
+  ytitle = text				Y axis text.
+  title = text				Plot title.
+  charsize = s				Overall char size.
+  font = f				Set text font.
+  background = name			Set background color name.
+  textcolor = name			Set text color name.
+  barplot				Turn on bar plot mode, else curves
+					with color = giving color of each curv.
+  shadow				Turn on bar shadow mode.
+  datastart				Start data pairs.
+    xlab1, yval1_c1, [yval1_c2, ...]  	X label and list of y values.
+    xlab2, yval2_c1, [yval2_c2, ...]      For bar plots only 1 y val used/pt.
+    . . .				  For curve plots each curve is a
+    xlabn, yvaln_c1, [yval2_c2m ...]	  column down.
+  dataend				End of data.
+  plot					Do plot.

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/fits
+END
+fits2alm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/fits/fits2alm.pro
+END
+alm2fits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/fits/alm2fits.pro
+END
+read_fits_s.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/fits/read_fits_s.pro
+END
+read_fits_map.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/fits/read_fits_map.pro
+END
+extract_ttype.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/fits/extract_ttype.pro
+END
+add_units_fits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/fits/add_units_fits.pro
+END
+add_nside_fits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/fits/add_nside_fits.pro
+END
+add_coordsys_fits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/fits/add_coordsys_fits.pro
+END
+write_fits_sb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/fits/write_fits_sb.pro
+END
+fxbcreate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/fits/fxbcreate.pro
+END
+sxaddpar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/fits/sxaddpar.pro
+END
+fits2cl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/fits/fits2cl.pro
+END
+cl2fits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/fits/cl2fits.pro
+END
+add_ordering_fits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/fits/add_ordering_fits.pro
+END
+write_fits_map.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/fits/write_fits_map.pro
+END

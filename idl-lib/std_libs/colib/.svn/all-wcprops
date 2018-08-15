@@ -1,0 +1,869 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib
+END
+caldat_str.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/caldat_str.pro
+END
+getknee.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/getknee.pro
+END
+cmbfast2fits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/cmbfast2fits.pro
+END
+binxy.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/binxy.pro
+END
+bin2dplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/bin2dplot.pro
+END
+binav.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/binav.pro
+END
+matrixread.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/matrixread.pro
+END
+where2D.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/where2D.pro
+END
+leap_year.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/leap_year.pro
+END
+fullmean.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/fullmean.pro
+END
+copsd_old.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/copsd_old.pro
+END
+wherenan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/wherenan.pro
+END
+copsd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/copsd.pro
+END
+co_errplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/co_errplot.pro
+END
+rgb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/rgb.pro
+END
+catrangeav.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/catrangeav.pro
+END
+pause.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/pause.pro
+END
+inrange.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/inrange.pro
+END
+binxyplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/binxyplot.pro
+END
+split_dir.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/split_dir.pro
+END
+checkdir.old
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/checkdir.old
+END
+hist2d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/hist2d.pro
+END
+delayplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/delayplot.pro
+END
+plot_circle.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/plot_circle.pro
+END
+elimleadzeros.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/elimleadzeros.pro
+END
+co_cvttobm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/co_cvttobm.pro
+END
+running_sigma.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/running_sigma.pro
+END
+plotcircle.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/plotcircle.pro
+END
+write_ascii.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/write_ascii.pro
+END
+nov.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/nov.pro
+END
+crop.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/crop.pro
+END
+make_1f.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/make_1f.pro
+END
+eplot2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/eplot2.pro
+END
+sc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/sc.pro
+END
+swap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/swap.pro
+END
+logbin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/logbin.pro
+END
+costddev.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/costddev.pro
+END
+checkdir.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/checkdir.pro
+END
+comparelikes.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/comparelikes.pro
+END
+bmtocvt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/bmtocvt.pro
+END
+equate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/equate.pro
+END
+co_yticks.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/co_yticks.pro
+END
+days_in_month.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/days_in_month.pro
+END
+pirnt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/pirnt.pro
+END
+range.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/range.pro
+END
+hist2dplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/hist2dplot.pro
+END
+printmean.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/printmean.pro
+END
+plotxy.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/plotxy.pro
+END
+vlines.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/vlines.pro
+END
+sinefit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/sinefit.pro
+END
+PrGraphics.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/PrGraphics.pro
+END
+vmap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/vmap.pro
+END
+mkdir.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/mkdir.pro
+END
+month_name_to_num.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/month_name_to_num.pro
+END
+hist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/hist.pro
+END
+plot_errors.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/plot_errors.pro
+END
+noise.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/noise.pro
+END
+whered.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/whered.pro
+END
+exists.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/exists.pro
+END
+bincontourplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/bincontourplot.pro
+END
+sph_area.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/sph_area.pro
+END
+removecs.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/removecs.pro
+END
+catrange.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/catrange.pro
+END
+unsort.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/unsort.pro
+END
+bundle2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/bundle2.pro
+END
+cleanvar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/cleanvar.pro
+END
+shuffle.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/shuffle.pro
+END
+bin2d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/bin2d.pro
+END
+tex.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/tex.pro
+END
+shear.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/shear.pro
+END
+frange.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/frange.pro
+END
+longitude_difference.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/longitude_difference.pro
+END
+histplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/histplot.pro
+END
+circ_sym.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/circ_sym.pro
+END
+num2str.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/num2str.pro
+END
+filetrim.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/filetrim.pro
+END
+co_spline.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/co_spline.pro
+END
+writerb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/writerb.pro
+END
+tv_ct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/tv_ct.pro
+END
+randomseed.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/randomseed.pro
+END
+test sine fitting.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/test%20sine%20fitting.pro
+END
+eplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/eplot.pro
+END
+equalize_segments.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/equalize_segments.pro
+END
+firstseg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/firstseg.pro
+END
+monthname.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/monthname.pro
+END
+lomb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/lomb.pro
+END
+corpsd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/corpsd.pro
+END
+strswitch.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/strswitch.pro
+END
+lplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/lplot.pro
+END
+humidity.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/humidity.pro
+END
+pplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/pplot.pro
+END
+delay.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/delay.pro
+END
+hline.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/hline.pro
+END
+strcat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/strcat.pro
+END
+comean.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/comean.pro
+END
+eoplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/eoplot.pro
+END
+animate_images.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/animate_images.pro
+END
+co_makestruct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/co_makestruct.pro
+END
+elimtrailzeros.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/elimtrailzeros.pro
+END
+repeat_index.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/repeat_index.pro
+END
+diff.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/diff.pro
+END
+co_prewhite.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/co_prewhite.pro
+END
+scpsd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/scpsd.pro
+END
+vline.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/vline.pro
+END
+matrixwrite.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/matrixwrite.pro
+END
+textplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/textplot.pro
+END
+readfirst.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/readfirst.pro
+END
+plotdlog.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/plotdlog.pro
+END
+file_exist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/file_exist.pro
+END
+co_xyouts.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/co_xyouts.pro
+END
+equalbin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/equalbin.pro
+END
+history.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/history.pro
+END
+bindata.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/bindata.pro
+END
+plot2d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/plot2d.pro
+END
+bound.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/bound.pro
+END
+bin2dplotnew.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/bin2dplotnew.pro
+END
+combine_errors.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/combine_errors.pro
+END
+co_contour.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/co_contour.pro
+END
+csym.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/csym.pro
+END
+del_var.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/del_var.pro
+END
+plot2dbox.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/plot2dbox.pro
+END
+running_noise.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/running_noise.pro
+END
+findclosest.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/findclosest.pro
+END
+cumulative.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/cumulative.pro
+END
+indexify.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/indexify.pro
+END
+dedrift.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/dedrift.pro
+END
+struct_to_array.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/struct_to_array.pro
+END
+I2R.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/I2R.pro
+END
+catsmall.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/catsmall.pro
+END
+rotplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/rotplot.pro
+END
+opplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/opplot.pro
+END
+nel.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/nel.pro
+END
+co_read_matrix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/co_read_matrix.pro
+END
+clean.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/clean.pro
+END
+getrange.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/getrange.pro
+END
+barplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/barplot.pro
+END
+polar_1f.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/polar_1f.pro
+END
+w.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/w.pro
+END
+binplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/binplot.pro
+END
+plottwo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/plottwo.pro
+END
+bindata_weight.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/bindata_weight.pro
+END
+bundle.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/bundle.pro
+END
+removeduplicates.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/removeduplicates.pro
+END
+logticks.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/colib/logticks.pro
+END

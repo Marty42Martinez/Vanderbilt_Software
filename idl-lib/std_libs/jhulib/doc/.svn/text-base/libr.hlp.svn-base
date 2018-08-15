@@ -1,0 +1,35 @@
+
+  LIBR --- IDL Librarian (for IDL on fast UNIX computers)
+
+  Helps maintain multiple IDL libraries.
+
+  LIBR has the following main functions:
+    ADD ------- Add a new routine to a library
+    MOVE ------ Move a routine from one library to another
+    DELETE ---- Delete a routine from a library
+    EXAMINE --- Examine a library listing and typing routines
+    SEARCH ---- Search a library for references to a routine.
+
+  This librarian is most useful if you adhere to the guidelines listed
+  under help entry for Built in help below.
+
+  For each main library LIBR can optionally also update an identical
+  mirror library.  Main and mirror library directories are specified
+  in a file called .idl_libs in your home directory.
+
+  Your preferred text editor is specified in the file called .idl_editor
+  in your home directory.
+
+  There are several other .idl_* files needed in your home directory,
+  see the help entry for .idl_* files below for more info.
+
+  A rather large number of auxiliary files are maintained,
+  see the help entry Operational details below.
+
+.menu_start
+More help is available on the following topics: | title
+   Quit Help | quit
+Built in help | link doc_stand.hlp
+.idl_* files | link dot_idl_files.hlp
+Operational details | link details.hlp
+.menu_end

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmbfast
+END
+graph1.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmbfast/graph1.pro
+END
+graph2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmbfast/graph2.pro
+END
+graph3.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmbfast/graph3.pro
+END
+cmbfast2fits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmbfast/cmbfast2fits.pro
+END
+cmbfast2max.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmbfast/cmbfast2max.pro
+END
+cmbfast2IDL.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmbfast/cmbfast2IDL.pro
+END
+readcmbfast.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/cmbfast/readcmbfast.pro
+END

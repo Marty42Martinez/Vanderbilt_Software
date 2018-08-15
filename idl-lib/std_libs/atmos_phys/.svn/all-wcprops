@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys
+END
+cape_sound.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/cape_sound.pro
+END
+mixr2vmr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/mixr2vmr.pro
+END
+mixr_sat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/mixr_sat.pro
+END
+h2o_density.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/h2o_density.pro
+END
+wind_barb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/wind_barb.pro
+END
+mixr2sh.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/mixr2sh.pro
+END
+zenith.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/zenith.pro
+END
+plot_tphi.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/plot_tphi.pro
+END
+plot_stuve.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/plot_stuve.pro
+END
+eice.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/eice.pro
+END
+theta.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/theta.pro
+END
+windangle.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/windangle.pro
+END
+T_virtual.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/T_virtual.pro
+END
+air_density.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/air_density.pro
+END
+cape_field.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/cape_field.pro
+END
+winduv.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/winduv.pro
+END
+tdew2rh.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/tdew2rh.pro
+END
+rh2tdew.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/rh2tdew.pro
+END
+sh2vmr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/sh2vmr.pro
+END
+alt2temp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/alt2temp.pro
+END
+atmos_const.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/atmos_const.pro
+END
+geopotential.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/geopotential.pro
+END
+mixr2rh.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/mixr2rh.pro
+END
+rh2mixr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/rh2mixr.pro
+END
+sh2mixr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/sh2mixr.pro
+END
+esat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/esat.pro
+END
+skewt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/skewt.pro
+END
+rh_wetbulb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/rh_wetbulb.pro
+END
+cape.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/cape.pro
+END
+molecpercm3.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/molecpercm3.pro
+END
+press2alt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/press2alt.pro
+END
+alt2press.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/atmos_phys/alt2press.pro
+END

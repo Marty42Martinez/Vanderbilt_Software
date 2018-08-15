@@ -1,0 +1,106 @@
+@linkedlist__define
+;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+; LIFETIME ROUTINES INIT, CLEANUP, DEFINE, and GET_TAG
+;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FUNCTION grid::init,nlat=nlat,nlon=nlon,nmax=nmax,missing=missing
+
+   KEYWORD_DEFAULT,nlon,360
+   KEYWORD_DEFAULT,nlat,180
+   KEYWORD_DEFAULT,nmax,500
+   KEYWORD_DEFAULT,missing,-999.
+   
+   self.nmax    = nmax
+   self.nlon    = nlon
+   self.nlat    = nlat
+   self.missing = missing
+      
+   self.selected = PTR_NEW(STRARR(nmax))
+   self.tag      = PTR_NEW(STRARR(nmax))
+   self.jul      = PTR_NEW(DBLARR(nmax))
+   self.year     = PTR_NEW(INTARR(nmax))
+   self.month    = PTR_NEW(INTARR(nmax))
+   self.day      = PTR_NEW(INTARR(nmax))
+   self.hour     = PTR_NEW(INTARR(nmax))
+      
+   dlon = 360./nlon
+   self.lon=PTR_NEW(vector(-180+dlon/2,180-dlon/2,nlon) # (FLTARR(nlat)+1))
+
+   dlat = 180./nlat
+   self.lat=PTR_NEW(vector(-90+dlat/2,90-dlat/2,nlat) ## (FLTARR(nlon)+1))
+   
+   self.selarea = PTR_NEW(INTARR(nlon,nlat) + 1) 
+   RETURN,1
+  
+END
+;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PRO grid::cleanup
+
+   PTR_FREE,self.selected
+   PTR_FREE,self.tag
+   PTR_FREE,self.jul  
+   PTR_FREE,self.year 
+   PTR_FREE,self.month
+   PTR_FREE,self.day  
+   PTR_FREE,self.hour 
+   PTR_FREE,self.lat  
+   PTR_FREE,self.lon 
+   PTR_FREE,self.selarea 
+
+   IF self.nfields GT 0 THEN self->linkedlist::cleanup
+
+END 
+;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FUNCTION grid::get_field,field,unique=unique
+     ; this will return the data entries for the structure field
+
+     valid_fields = TAG_NAMES({grid})
+     i           = WHERE(STRUPCASE(field) EQ STRUPCASE(valid_fields))
+	 IF i EQ -1 THEN BEGIN 
+	     RETURN,[-1] 
+     ENDIF ELSE BEGIN 
+	 
+	     IF SIZE(self.(i),/TYPE) EQ 10 THEN BEGIN
+	        asd= *(self.(i))
+	     ENDIF ELSE BEGIN 
+	        asd=self.(i)
+		 ENDELSE
+		 		
+     ENDELSE	
+	 
+	 IF KEYWORD_SET(unique) THEN asd=asd[UNIQ(asd,SORT(asd))]	 
+	 
+	 RETURN,asd
+END
+;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PRO grid__define
+
+  structure  = {grid, $
+				nlat     : 0L,  $
+				nlon     : 0L,  $
+				nfields  : 0L,  $
+				nmax     : 0L,  $
+				missing  : 0.0, $
+				selected : PTR_NEW(), $
+				tag      : PTR_NEW(), $
+				jul      : PTR_NEW(), $
+				year     : PTR_NEW(), $
+				month    : PTR_NEW(), $
+				day      : PTR_NEW(), $
+				hour     : PTR_NEW(), $
+				lat      : PTR_NEW(), $
+				lon      : PTR_NEW(), $
+				selarea  : PTR_NEW(), $
+                INHERITS linkedlist      $
+			   } 
+
+END

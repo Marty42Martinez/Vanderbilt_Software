@@ -1,0 +1,96 @@
+FUNCTION mascobs_container::RatioPlot, titlename=titlename, sep = sep, color=color
+;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%;
+;%%%%%Created by:Marty: August 24, 2015%%%%%;
+;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%;
+;%%%%%%%%%%%%%%%%Description%%%%%%%%%%%%%%%%;
+;returns plot of Aspect vs Area ratio
+;NOTE:only one measurement is recorded per 
+;snowflake triplet. Use image with largest 
+;maximum linear dimension
+;NOTE: sep keyword separates measurements into
+;3 sizebins and plots them in different colors
+;STILL HAVEN'T CHECK TO SEE IF THIS WORKS
+
+
+
+  KEYWORD_DEFAULT,titlename,'Aspect vs Area Ratio Plot'
+  KEYWORD_DEFAULT,sep,0
+  KEYWORD_DEFAULT,color,'black'
+  
+  ell    =  self -> evaluate('ellipse')
+  s      =  self -> evaluate('scale')
+  as     =  self -> evaluate('aspectratio')
+  ar     =  self -> evaluate('arearatio')
+  fs     =  self -> evaluate('fallspeed')
+  n      =  self.count()
+  
+  ell_0  =  reform(ell[0,*])
+  ell_1  =  reform(ell[1,*])
+  ell_2  =  reform(ell[2,*])
+  dmax   =  fltarr(n)
+  angle  =  fltarr(n)
+  
+  
+  for i = 0,n-1 do begin
+  
+    holdax    =  [ell_0[i].major,ell_1[i].major,ell_2[i].major]
+	holdang   =  [ell_0[i].angle,ell_1[i].angle,ell_2[i].angle]
+	ind       =  where(holdax eq max(holdax))
+    dmax[i]   =  holdax[ind]*s[i]
+	angle[i]  =  holdang[ind]
+  endfor
+  ;return, dmax
+  ar2as = ar/as
+  
+  if sep eq 0 then begin
+    p1 = plot(ar, as, symbol='dot',sym_size=5.0,linestyle=6, xrange=[0,1.0],yrange=[0,1.0],$
+    xtitle='Area Ratio',ytitle='Aspect Ratio',title=titlename,color=color)
+	p2 = plot(dmax, as, symbol='dot',sym_size=5.0,linestyle=6, xrange=[0,2.0],yrange=[0,1.0],$
+    xtitle='Dmax [cm]',ytitle='Aspect Ratio',color=color)
+	p3 = plot(dmax, ar, symbol='dot',sym_size=5.0,linestyle=6, xrange=[0,2.0],yrange=[0,1.0],$
+    xtitle='Dmax [cm]',ytitle='Area Ratio',color=color)
+	p4 = plot(dmax, angle, symbol='dot',sym_size=5.0,linestyle=6, xrange=[0,2.0],yrange=[0,90],$
+    xtitle='Dmax [cm]',ytitle='Angle of Maximum axis',color=color)
+	p5 = plot(dmax, ar2as, symbol='dot',sym_size=5.0,linestyle=6, xrange=[0,2.0],yrange=[0,1.0],$
+    xtitle='Dmax [cm]',ytitle='Ratio of Ar : As',color=color)
+	p6 = plot(dmax, fs, symbol='dot',sym_size=5.0,linestyle=6, xrange=[0,2.0],yrange=[0,3.0],$
+    xtitle='Dmax [cm]',ytitle='MASC recorded Fallspeed',color=color)
+  endif else begin
+  
+
+    cam_ind = fltarr(n)
+    ell_sep = replicate(ell_0[0],n)
+	ar_sep  = fltarr(n)
+	as_sep  = fltarr(n)
+    for i = 0,n-1 do begin
+      hold        = [ell_0[i].major,ell_1[i].major,ell_2[i].major]*s[i]
+      cam_ind[i] = where(hold eq max(hold))
+    endfor
+    for j = 0,n-1 do begin
+	  ell_sep[j] = ell[cam_ind[j],j]
+	  ar_sep[j]  = ar[cam_ind[j],j]
+	  as_sep[j]  = as[cam_ind[j],j]
+    endfor
+    ;srt_ind = sort(ell_sep.major*s)
+    ;ell_srt = ell_sep[srt_ind]
+  
+    ind0 = where(ell_sep.major*s lt 0.24)
+	ind1 = where(ell_sep.major*s ge 0.24 and ell_sep.major*s le 0.52)
+	ind2 = where(ell_sep.major*s gt 0.52)
+	
+	xpl = findgen(25)*.04
+	ypl = findgen(25)*.04
+	sz_colors = ['blue','blue violet','red']
+	
+	p0 = plot(xpl,ypl, /nodata, xtitle = 'Area Ratio',ytitle='Aspect Ratio',title=titlename,xrange=[0,1],yrange=[0,1],/xstyle,/ystyle)
+	p1 = plot(ar_sep[ind0], as_sep[ind0], symbol='+',sym_Color=sz_colors[0],name='Rmax lt 0.24 cm',linestyle=6, overplot=1,sym_thick = 2.0)
+	p2 = plot(ar_sep[ind1], as_sep[ind1], symbol='+',sym_Color=sz_colors[1],name='Rmax bt 0.24 and 0.52 cm',linestyle=6, overplot=1,sym_thick = 2.0)
+	p3 = plot(ar_sep[ind2], as_sep[ind2], symbol='+',sym_Color=sz_colors[2],name='Rmax gt 0.52 cm',linestyle=6, overplot=1,sym_thick = 2.0)
+	leg1 = legend(target=[p1,p2,p3],position=[0.75,0.25],/data,/auto_text_color)
+  
+  
+  
+  endelse
+
+
+end

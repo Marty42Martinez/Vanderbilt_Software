@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/bennartz_group/!svn/ver/794/LIBRARY/idl/group_libs/netcdf
+END
+replace_string.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/72/LIBRARY/idl/group_libs/netcdf/replace_string.pro
+END
+ncdf_write_structure.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/netcdf/ncdf_write_structure.pro
+END
+ncdf_cut.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/netcdf/ncdf_cut.pro
+END
+ncdf_read_structure.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/794/LIBRARY/idl/group_libs/netcdf/ncdf_read_structure.pro
+END
+ncdf_write_matrix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/netcdf/ncdf_write_matrix.pro
+END
+ncdf_read_matrix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/netcdf/ncdf_read_matrix.pro
+END
+ncdf_read_attributes.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/netcdf/ncdf_read_attributes.pro
+END
+dialog.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/79/LIBRARY/idl/group_libs/netcdf/dialog.pro
+END

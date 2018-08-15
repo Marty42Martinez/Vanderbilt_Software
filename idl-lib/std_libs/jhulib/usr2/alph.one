@@ -1,0 +1,25 @@
+autoscale = Autoscale given image as previously specified.
+cplot = Do a character plots on screen or into an array.
+dir_view = Directory viewing utility.
+footprint = Interactively give info on a camera footprint.
+furn:P Plot a set of furniture and a room floor plan.
+get_ext = Return a list of unique file extensions (and count).
+gif = GIF image viewer.
+gif2bw = Convert a GIF image to a BW image.
+gif2color = Convert a GIF image to a standard color image.
+gif2tif = Convert a GIF file to a TIFF file.
+gif_del = Delete specified GIF file.  For use by gif.pro.
+idl_clean:P Cleans up IDL source code.  Puts in IDL standard format.
+mort = Mortgage or loan computation.
+pdef:P Set some custom plot defaults.
+pick_dir = Interactively pick a directory.
+redshift = Converts between redshift, Recession velocity, and Distance
+refinance = Explore the costs and benifits of refinancing a loan.
+sound = Gives sound on sparc station 1.
+subtree = Display size sorted directory subtree. Good for cleaning.
+tif = TIFF image viewer.
+tif2bw = Convert a TIFF image to a BW image.
+tif2color = Convert a TIFF image to a standard color image.
+tif2gif = Convert a TIFF file to a GIF file.
+tif_del = Delete specified TIFF file.  For use by tif.pro.
+xdc:P Display Xdefault colors or generate a color.

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib
+END
+computetq.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/computetq.pro
+END
+getb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/getb.pro
+END
+prewhite_old.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/prewhite_old.pro
+END
+prewhite.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/prewhite.pro
+END
+plot_spherical_harmonic.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/plot_spherical_harmonic.pro
+END
+read_angel_cov.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/read_angel_cov.pro
+END
+ComputePl0.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/ComputePl0.pro
+END
+chol_like.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/chol_like.pro
+END
+ComputePl2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/ComputePl2.pro
+END
+newbin36.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/newbin36.pro
+END
+ComputeF1l2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/ComputeF1l2.pro
+END
+ComputeF2l2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/ComputeF2l2.pro
+END
+polmaster.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/polmaster.pro
+END
+wmean.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/wmean.pro
+END
+cov_mtrx_driver.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/cov_mtrx_driver.pro
+END
+computeqq.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/computeqq.pro
+END
+maxdestripeandoffset.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/maxdestripeandoffset.pro
+END
+mapmaker_nov.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/mapmaker_nov.pro
+END
+make_polar_filter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/make_polar_filter.pro
+END
+computeuu.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/computeuu.pro
+END
+polar_map_reader.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/polar_map_reader.pro
+END
+make_opt_plot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/make_opt_plot.pro
+END
+readhead.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/readhead.pro
+END
+computeF1l0.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/computeF1l0.pro
+END
+polstrips.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/polstrips.pro
+END
+spectraplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/spectraplot.pro
+END
+destripe2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/destripe2.pro
+END
+destripe3.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/destripe3.pro
+END
+bkfilter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/bkfilter.pro
+END
+polarpipeline.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/polarpipeline.pro
+END
+make_polar_window_freq_domain.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/make_polar_window_freq_domain.pro
+END
+sim_1_over_f.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/bklib/sim_1_over_f.pro
+END

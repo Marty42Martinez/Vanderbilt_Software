@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu
+END
+molload.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu/molload.pro
+END
+gnomview.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu/gnomview.pro
+END
+mollview.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu/mollview.pro
+END
+gnomcursor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu/gnomcursor.pro
+END
+gnomcom.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu/gnomcom.pro
+END
+mollcursor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu/mollcursor.pro
+END
+plot_mollweide.ps
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu/plot_mollweide.ps
+END
+mollcom.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu/mollcom.pro
+END
+gnom2pix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu/gnom2pix.pro
+END
+moll2pix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu/moll2pix.pro
+END
+gnom2fits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu/gnom2fits.pro
+END
+loaddata.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu/loaddata.pro
+END
+gnom2out.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu/gnom2out.pro
+END
+color_map.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu/color_map.pro
+END
+data2gnom.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu/data2gnom.pro
+END
+moll2out.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu/moll2out.pro
+END
+data2moll.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/healpix/visu/data2moll.pro
+END

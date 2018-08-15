@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/bennartz_group/!svn/ver/821/LIBRARY/idl/group_libs/plotting/wis_image
+END
+save prism table.pro
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/plotting/wis_image/save%20prism%20table.pro
+END
+save red-blue minus-plus table.pro
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/plotting/wis_image/save%20red-blue%20minus-plus%20table.pro
+END
+save blue-green-red color table.pro
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/plotting/wis_image/save%20blue-green-red%20color%20table.pro
+END
+example_how_to_do_multiple_plots.pro
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/bennartz_group/!svn/ver/249/LIBRARY/idl/group_libs/plotting/wis_image/example_how_to_do_multiple_plots.pro
+END
+wis_image_diff.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/plotting/wis_image/wis_image_diff.pro
+END
+save_moist_dry_colortable.pro
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/plotting/wis_image/save_moist_dry_colortable.pro
+END
+save bw color table.pro
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/plotting/wis_image/save%20bw%20color%20table.pro
+END
+wis_image_true.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/bennartz_group/!svn/ver/821/LIBRARY/idl/group_libs/plotting/wis_image/wis_image_true.pro
+END
+wis_image.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/821/LIBRARY/idl/group_libs/plotting/wis_image/wis_image.pro
+END
+wis_grid.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/plotting/wis_image/wis_grid.pro
+END
+wis_box.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/plotting/wis_image/wis_box.pro
+END
+wis_color_tables.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/plotting/wis_image/wis_color_tables.tbl
+END
+wherelim.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/607/LIBRARY/idl/group_libs/plotting/wis_image/wherelim.pro
+END
+df_colorbar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/394/LIBRARY/idl/group_libs/plotting/wis_image/df_colorbar.pro
+END
+tv_ct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/62/LIBRARY/idl/group_libs/plotting/wis_image/tv_ct.pro
+END

@@ -1,0 +1,62 @@
+
+  dot_idl_files.txt = .idl_* files used by LIBR
+
+  LIBR (and perhaps other routines) pick up some needed information
+  from a number of files in your home directory.  The names of these
+  files all start with .idl_.  This method of passing custom information
+  to IDL has several advantages over using system variables.  One important
+  one is that more complex information is easy to handle since it is stored
+  in files.
+
+  All the .idl_* files allow optional comment lines.  Comment lines have
+  ; in the first column and are ignored.  Null lines are also ignored.
+
+  The files needed and their functions are:
+
+  .idl_editor	gives the name of your preferred text editor.
+  .idl_libs	gives a list of main and optional mirror libraries.
+  .idl_id	helps LIBR find your name or initials when building
+		a standard IDL front end template.
+
+  More details on each file are given below.
+
+  .idl_editor:  An example file is:
+;------  Editor to use from IDL spawn  --------
+;       R. Sterner, 15 Jan, 1993
+vi
+
+  .idl_libs:  Each non-comment line of the file has one or two items.
+     First is a main library directory.
+     Second is an optional mirror library directory.
+     The two libraries are separated by tabs or spaces.
+     Every update to a main library is also done to a mirror library
+       if one is given.
+     As many main libraries may be given in the file as desired.  All,
+     some, or none may have mirror libraries.
+     A directory named trash is assumed to exist.  Deleted routines are
+     copied to this trash directory.  It should be listed in .idl_libs.
+     Clean out the trash directory occasionally.
+  An example file is:
+;-------------  Library list  --------------------
+;------ Main library ------     ------  Mirror library  --------
+/data_bases/idl_libs/idlusr     /users/sterner/idl/mirror/idlusr
+/data_bases/idl_libs/idlusr2    /users/sterner/idl/mirror/idlusr2
+/data_bases/idl_libs/idlspec    /users/sterner/idl/mirror/idlspec
+/data_bases/idl_libs/trash      /users/sterner/idl/mirror/trash
+
+  .idl_id:  Has 4 non-comment lines giving the routine author's ID:
+last_name
+first initial
+first_name
+initials
+  When constructing or updating the standard IDL frontend an attempt is made
+  to find a line in the routine containing the author's name (or initials)
+  the date the routine was written.  An example of such a line is:
+;-------  R. Sterner,  21 Jan, 1993
+  An example file is:
+;------  .idl_id = User ID used by getmodhist
+sterner
+r
+ray
+res
+

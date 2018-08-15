@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/bennartz_group/!svn/ver/821/LIBRARY/idl/std_libs/CRTM_PLANCK
+END
+planck_constants.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/770/LIBRARY/idl/std_libs/CRTM_PLANCK/planck_constants.pro
+END
+planck_dbdt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/770/LIBRARY/idl/std_libs/CRTM_PLANCK/planck_dbdt.pro
+END
+planck_dtdb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/770/LIBRARY/idl/std_libs/CRTM_PLANCK/planck_dtdb.pro
+END
+planck_temperature.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/821/LIBRARY/idl/std_libs/CRTM_PLANCK/planck_temperature.pro
+END
+error_codes.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/770/LIBRARY/idl/std_libs/CRTM_PLANCK/error_codes.pro
+END
+fundamental_constants.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/770/LIBRARY/idl/std_libs/CRTM_PLANCK/fundamental_constants.pro
+END
+planck_radiance.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/770/LIBRARY/idl/std_libs/CRTM_PLANCK/planck_radiance.pro
+END

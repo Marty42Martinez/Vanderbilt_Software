@@ -1,0 +1,455 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig
+END
+xcontour.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/xcontour.pro
+END
+parseline.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/parseline.pro
+END
+selectimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/selectimage.pro
+END
+color24.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/color24.pro
+END
+pickcolorname.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/pickcolorname.pro
+END
+image_blend.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/image_blend.pro
+END
+select_objects.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/select_objects.pro
+END
+drawcolors__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/drawcolors__define.pro
+END
+ps_plotter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/ps_plotter.pro
+END
+clipboard.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/clipboard.pro
+END
+normalize.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/normalize.pro
+END
+tvscale.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/tvscale.pro
+END
+contrastzoom.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/contrastzoom.pro
+END
+colorbar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/colorbar.pro
+END
+xplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/xplot.pro
+END
+zplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/zplot.pro
+END
+object_shade_surf.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/object_shade_surf.pro
+END
+windowimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/windowimage.pro
+END
+fsc_psconfig__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/fsc_psconfig__define.pro
+END
+hdfwrite.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/hdfwrite.pro
+END
+xcd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/xcd.pro
+END
+xsurface.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/xsurface.pro
+END
+mpi_axis__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/mpi_axis__define.pro
+END
+getimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/getimage.pro
+END
+cw_drawcolor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/cw_drawcolor.pro
+END
+tvread.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/tvread.pro
+END
+tvimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/tvimage.pro
+END
+zoombox.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/zoombox.pro
+END
+fsc_plotwindow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/fsc_plotwindow.pro
+END
+transform_volume.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/transform_volume.pro
+END
+coyote_field.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/coyote_field.pro
+END
+fsc_psconfig.zip
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/fsc_psconfig.zip
+END
+pswindow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/pswindow.pro
+END
+cindex.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/cindex.pro
+END
+linkedlist__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/linkedlist__define.pro
+END
+zimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/zimage.pro
+END
+getcolor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/getcolor.pro
+END
+showprogress__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/showprogress__define.pro
+END
+adjustposition.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/adjustposition.pro
+END
+aspect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/aspect.pro
+END
+mpi_plotconfig__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/mpi_plotconfig__define.pro
+END
+mpi_plot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/mpi_plot.pro
+END
+fsc_surface.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/fsc_surface.pro
+END
+hcolorbar__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/hcolorbar__define.pro
+END
+printwindow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/printwindow.pro
+END
+pickcolor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/pickcolor.pro
+END
+owindow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/owindow.pro
+END
+error_message.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/error_message.pro
+END
+chgcolor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/chgcolor.pro
+END
+vcolorbar__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/vcolorbar__define.pro
+END
+fsc_window.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/fsc_window.pro
+END
+xmovie.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/xmovie.pro
+END
+psconfig.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/psconfig.pro
+END
+texture_surface.pro
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/texture_surface.pro
+END
+loaddata.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/loaddata.pro
+END
+scale_vector.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/scale_vector.pro
+END
+fsc_fileselect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/fsc_fileselect.pro
+END
+colorbar__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/colorbar__define.pro
+END
+centertlb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/centertlb.pro
+END
+program.documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/program.documentation.html
+END
+xcolors.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/xcolors.pro
+END
+fsc_droplist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/fsc_droplist.pro
+END
+reverse_axes.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/reverse_axes.pro
+END
+hdfread.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/hdfread.pro
+END
+undefine.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/undefine.pro
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/README
+END
+fsc_inputfield.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/fsc_inputfield.pro
+END
+buttontypes.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/buttontypes.pro
+END
+simple_surface.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/simple_surface.pro
+END
+str_size.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/str_size.pro
+END
+xstretch.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/xstretch.pro
+END
+fsc_color.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/fsc_color.pro
+END
+ximage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/ximage.pro
+END
+fsc_field.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/fsc_field.pro
+END
+process.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/bennartz_group/!svn/ver/59/LIBRARY/idl/std_libs/fanning/psconfig/process.pro
+END

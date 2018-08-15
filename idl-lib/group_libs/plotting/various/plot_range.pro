@@ -1,0 +1,41 @@
+PRO plot_range,x,y_max,y_min,XTITLE=XTITLE,YTITLE=YTITLE,sort=sort,shadecolor=shadecolor,_EXTRA=_EXTRA,OPLOT=OPLOT,NOBORDER=NOBORDER
+
+IF NOT(KEYWORD_SET(shadecolor)) THEN shadecolor=200
+
+n    = N_ELEMENTS(x)
+
+mini = y_min
+maxi = y_max
+
+IF KEYWORD_SET(sort) THEN BEGIN 
+    FOR i=0,n-1 DO BEGIN
+      mini[i]=MIN([y_min[i],y_max[i]])
+      maxi[i]=Max([y_min[i],y_max[i]])
+    ENDFOR
+ENDIF
+
+IF NOT(KEYWORD_SET(OPLOT)) THEN PLOT,x,maxi,_EXTRA=_EXTRA,XTITLE=XTITLE,YTITLE=YTITLE
+
+PXVAL = [x[0],x,x[n-1]]
+minval=!Y.CRANGE[0]
+
+minicol=0
+IF !D.name EQ 'PS' THEN minicol=255
+
+POLYFILL, PXVAL, [MINVAL, maxi, MINVAL], COLOR = shadecolor ,_EXTRA=_EXTRA, noclip=0,clip=[!X.CRANGE[0],!Y.CRANGE[0],!X.CRANGE[1],!Y.CRANGE[1]]
+POLYFILL, PXVAL, [MINVAL, mini, MINVAL], COLOR  = minicol   ,_EXTRA=_EXTRA, noclip=0,clip=[!X.CRANGE[0],!Y.CRANGE[0],!X.CRANGE[1],!Y.CRANGE[1]]
+
+IF NOT(KEYWORD_SET(OPLOT)) THEN BEGIN
+  OPLOt,x,mini,_EXTRA=_EXTRA,THICK=1
+  OPLOt,x,maxi,_EXTRA=_EXTRA,THICK=1
+ENDIF
+;AXIS,XAXIS=0,_EXTRA=_EXTRA,XTITLE=XTITLE
+;AXIS,YAXIS=0,_EXTRA=_EXTRA,YTITLE=YTITLE
+;tn=STRARR(10)
+;for i=0,9 do tn[i]=' '
+;AXIS,XAXIS=3,XTICKNAME=tn,_EXTRA=_EXTRA,XTITLE=''
+;AXIS,YAXIS=3,YTICKNAME=tn,_EXTRA=_EXTRA,YTITLE=''
+
+;PLOT,x,maxi,_EXTRA=_EXTRA,XTITLE=XTITLE,YTITLE=YTITLE,/NOERASE
+
+END

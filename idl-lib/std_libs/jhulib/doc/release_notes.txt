@@ -1,0 +1,41 @@
+15 Dec 1995
+  GETMODHIST: Now drops all text found before the MOD HIST line.  Was getting
+    confused by that text.  RES
+28 Feb 1995
+  ADD_TEMPLATE: Was adding a blank line after template.  Should be fixed.  RES
+10 Oct 1994
+  ADD_TEMPLATE: Fixed to recognize a standard template and only
+    replace it (and not other text).  Before standard template
+    is in place will replace all lines down to pro or function.
+    This may be avoided by adding the line ;-.  RES
+7 Jun 1994
+  LIBR: Fixed a minor problem in detecting the new liner format.  RES
+3 Jun 1994
+  LIBR: Fixed side effect of change to liner format.  RES
+28 Mar 1994
+  EXTRACTHLP: Didn't allow pro or function to start in column 1.  Fixed.  RES
+16 Nov 1993
+  LIBR: Fixed a typo in delete_file module.  RES
+2 Aug 1993
+  LIBR: Fixed so delete file doesn't blow up if file not found.  RES
+23 Jun 1993
+  LIBR: Dropped the need for the .idl_editor file in HOME directory
+    by modifying to use the environmental variable EDITOR.  RES
+19 May 1993
+  LIBR: Move QUIT option to top of main menu.
+    Renamed deleted file backup from backup.bak to routine_del.bak.
+    Added ADD option backups of old version of file under the name
+    routine_old.bak in both main and mirror libraries.  RES
+    Now may enter file name without extension and have .pro added.  RES
+18 May 1993
+  LIBR: Modified to use new txtgetfile OPTION1 keyword.  RES
+11 Mar 1993
+  BRK_HELP: Entered this and the following routines in the *.one files.  RES
+  GETMODHIST: 
+  GETCOMMON: 
+  CHECK_TEMP: 
+  EXTRACTHLP: Added an error flag to indicate No Help Text Found.  RES
+  ADD_TEMPLATE: Handled the No Help Text Found case.  RES
+9 Mar 1993
+  LIBR: Converted extension list to use get_ext.  RES
+ 
